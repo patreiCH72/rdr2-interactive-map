@@ -14,6 +14,13 @@
 html,
 body {
   height: 100%;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  overscroll-behavior: none;
+  touch-action: manipulation;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 body {
@@ -31,6 +38,7 @@ body {
   width: 100%;
   background: #3a2c1c;
   font-family: var(--font-source), ui-sans-serif, sans-serif;
+  touch-action: none;
 }
 
 .rdr-pin,

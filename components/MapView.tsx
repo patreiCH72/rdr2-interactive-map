@@ -79,6 +79,25 @@ function MapBridge() {
   }, [map, dispatch]);
 
   useEffect(() => {
+    function relayout() {
+      window.scrollTo(0, 0);
+      map.invalidateSize({ animate: false });
+    }
+    function delayed() {
+      relayout();
+      window.setTimeout(relayout, 280);
+    }
+    window.addEventListener("resize", delayed);
+    window.addEventListener("orientationchange", delayed);
+    window.visualViewport?.addEventListener("resize", delayed);
+    return () => {
+      window.removeEventListener("resize", delayed);
+      window.removeEventListener("orientationchange", delayed);
+      window.visualViewport?.removeEventListener("resize", delayed);
+    };
+  }, [map]);
+
+  useEffect(() => {
     const el = map.getContainer();
     el.style.cursor = state.tool === "pan" ? "grab" : "crosshair";
   }, [map, state.tool]);

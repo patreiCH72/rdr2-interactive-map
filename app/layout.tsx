@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import type { ReactNode } from "react";
 import { Cinzel, Source_Sans_3 } from "next/font/google";
 import "./globals.css";
@@ -21,13 +21,21 @@ export const metadata: Metadata = {
     "Werbefreie, login-freie Fan-Karte. Demo-Datensatz, kein offizielles Rockstar-Produkt.",
 };
 
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
+  viewportFit: "cover",
+};
+
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html
       lang="de-CH"
-      className={`${cinzel.variable} ${sourceSans.variable} h-full antialiased`}
+      className={`${cinzel.variable} ${sourceSans.variable} h-full overflow-hidden antialiased`}
     >
-      <body className="min-h-full">{children}</body>
+      <body className="h-full overflow-hidden">{children}</body>
     </html>
   );
 }

@@ -42,8 +42,22 @@ function ShellInner() {
     return () => window.removeEventListener("keydown", onKey);
   }, [dispatch]);
 
+  useEffect(() => {
+    function resetViewport() {
+      window.scrollTo(0, 0);
+    }
+    window.addEventListener("orientationchange", resetViewport);
+    window.addEventListener("resize", resetViewport);
+    window.visualViewport?.addEventListener("resize", resetViewport);
+    return () => {
+      window.removeEventListener("orientationchange", resetViewport);
+      window.removeEventListener("resize", resetViewport);
+      window.visualViewport?.removeEventListener("resize", resetViewport);
+    };
+  }, []);
+
   return (
-    <div className="flex h-dvh flex-col bg-leather text-paper">
+    <div className="flex h-dvh max-h-dvh w-full max-w-full flex-col overflow-hidden bg-leather text-paper">
       <header className="relative z-50 flex items-center gap-2 border-b border-gold/30 px-3 py-2 lg:hidden">
         <button
           type="button"
