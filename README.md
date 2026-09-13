@@ -44,6 +44,12 @@ Kartenbilder unter `public/map/` (~10 MB) werden als statische Dateien ausgelief
 
 **Hinweis:** Die Hintergrundkarte ist urheberrechtlich bei Rockstar. Eine öffentliche URL ist ein Fan-Projekt, kein offizielles Produkt.
 
+### PIN-Sperre
+
+Ist die Env-Var `SITE_PIN` gesetzt, erscheint vor der Karte ein Unlock-Screen. Ohne diese Variable bleibt die App offen.
+
+Lokal: `.env.local` (siehe `.env.example`). Auf Vercel: Project → Settings → Environment Variables → `SITE_PIN`.
+
 ## Bedienung
 
 - Linke Sidebar: Filter (Show All / Hide All / Interiors), Suche, Kategorien mit Zählern
