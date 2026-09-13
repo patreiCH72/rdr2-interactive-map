@@ -1,0 +1,2484 @@
+[
+  {
+    "id": "cc-707",
+    "name": "Amazing Inventions #01 — Steam Locomotive",
+    "category": "cigarette-card",
+    "x": 7105.0,
+    "y": 2763.0,
+    "region": "Lemoyne",
+    "description": "In a bird nest on the upper landing of the abandoned church, on a small platform below the bell.",
+    "tips": "Full Set Completion Reward:\n- Volatile Dynamite\n- $100"
+  },
+  {
+    "id": "cc-703",
+    "name": "Amazing Inventions #02 — Camera",
+    "category": "cigarette-card",
+    "x": 7976.6,
+    "y": 3339.8,
+    "region": "Lemoyne",
+    "description": "Outside the building just south of the photo studio, lying on top of the table on the balcony.",
+    "tips": "Full Set Completion Reward:\n- Volatile Dynamite\n- $100"
+  },
+  {
+    "id": "cc-570",
+    "name": "Amazing Inventions #03 — Electrical Execution Apparatus",
+    "category": "cigarette-card",
+    "x": 3959.7,
+    "y": 4757.2,
+    "region": "New Hanover",
+    "description": "This card is inside the house, under a bunk bed on the upper floor. To get inside the house, use the boxes outside to climb onto the roof and in through the window.",
+    "tips": "Full Set Completion Reward:\n- Volatile Dynamite\n- $100"
+  },
+  {
+    "id": "cc-704",
+    "name": "Amazing Inventions #04 — Typewriter",
+    "category": "cigarette-card",
+    "x": 5049.3,
+    "y": 3137.6,
+    "region": "New Hanover",
+    "description": "On top of a barrel to the left of the warehouse door.",
+    "tips": "Full Set Completion Reward:\n- Volatile Dynamite\n- $100"
+  },
+  {
+    "id": "cc-564",
+    "name": "Amazing Inventions #05 — Revolver",
+    "category": "cigarette-card",
+    "x": 8032.9,
+    "y": 5298.9,
+    "region": "New Hanover",
+    "description": "On a table in the terrace at the back of the [Gunsmith's](https://rdr2map.com?locationIds=581). May not appear until starting [Smoking and Other Hobbies](https://rdr2map.com?locationIds=388)",
+    "tips": "Full Set Completion Reward:\n- Volatile Dynamite\n- $100"
+  },
+  {
+    "id": "cc-705",
+    "name": "Amazing Inventions #06 — Telegraph",
+    "category": "cigarette-card",
+    "x": 8016.2,
+    "y": 4746.5,
+    "region": "New Hanover",
+    "description": "On a bench facing the train tracks on the abandoned railway platform.",
+    "tips": "Full Set Completion Reward:\n- Volatile Dynamite\n- $100"
+  },
+  {
+    "id": "cc-701",
+    "name": "Amazing Inventions #07 — Manned Glider",
+    "category": "cigarette-card",
+    "x": 7309.3,
+    "y": 3163.8,
+    "region": "Lemoyne",
+    "description": "On a workbench in the middle of the barn.",
+    "tips": "Full Set Completion Reward:\n- Volatile Dynamite\n- $100"
+  },
+  {
+    "id": "cc-708",
+    "name": "Amazing Inventions #08 — Dynamite",
+    "category": "cigarette-card",
+    "x": 7353.1,
+    "y": 2753.7,
+    "region": "Lemoyne",
+    "description": "This card can be found on the back porch of Shady Belle. Will not appear during Chapter 4.",
+    "tips": "Full Set Completion Reward:\n- Volatile Dynamite\n- $100"
+  },
+  {
+    "id": "cc-337",
+    "name": "Amazing Inventions #09 — Cylinder Phonograph",
+    "category": "cigarette-card",
+    "x": 5451.4,
+    "y": 4843.5,
+    "region": "New Hanover",
+    "description": "This card can be found lying on the bay window windowsill in the saloon, near the piano.",
+    "tips": "Full Set Completion Reward:\n- Volatile Dynamite\n- $100"
+  },
+  {
+    "id": "cc-702",
+    "name": "Amazing Inventions #10 — Player Piano",
+    "category": "cigarette-card",
+    "x": 7905.0,
+    "y": 3268.1,
+    "region": "Lemoyne",
+    "description": "On top of the piano in the saloon.",
+    "tips": "Full Set Completion Reward:\n- Volatile Dynamite\n- $100"
+  },
+  {
+    "id": "cc-560",
+    "name": "Amazing Inventions #11 — Electric Lightbulb",
+    "category": "cigarette-card",
+    "x": 7635.3,
+    "y": 6061.7,
+    "region": "Ambarino",
+    "description": "On top of some crates next to the back door of the building.",
+    "tips": "Full Set Completion Reward:\n- Volatile Dynamite\n- $100"
+  },
+  {
+    "id": "cc-706",
+    "name": "Amazing Inventions #12 — Fountain Pen",
+    "category": "cigarette-card",
+    "x": 7183.7,
+    "y": 3861.2,
+    "region": "Lemoyne",
+    "description": "On a desk inside the derelict schoolhouse.",
+    "tips": "Full Set Completion Reward:\n- Volatile Dynamite\n- $100"
+  },
+  {
+    "id": "cc-723",
+    "name": "Artists, Painters, Writers & Poets #01 — Edith Corinne",
+    "category": "cigarette-card",
+    "x": 6668.3,
+    "y": 2765.3,
+    "region": "Lemoyne",
+    "description": "Under the table next to the clothesline.",
+    "tips": "Full Set Completion Reward:\n- Ginseng Elixir\n- $100"
+  },
+  {
+    "id": "cc-720",
+    "name": "Artists, Painters, Writers & Poets #02 — Elsie Rose",
+    "category": "cigarette-card",
+    "x": 4307.4,
+    "y": 3892.6,
+    "region": "West Elizabeth",
+    "description": "On top of the table at the top of the stairway in the Hotel. May only spawn after beginning [Smoking and Other Hobbies](https://rdr2map.com?locationIds=388)",
+    "tips": "Full Set Completion Reward:\n- Ginseng Elixir\n- $100"
+  },
+  {
+    "id": "cc-726",
+    "name": "Artists, Painters, Writers & Poets #03 — W.G. Hoyt",
+    "category": "cigarette-card",
+    "x": 6862.7,
+    "y": 4875.2,
+    "region": "New Hanover",
+    "description": "On a blue nightstand inside [Hani's Bethel](https://rdr2map.com?locationIds=190).",
+    "tips": "Full Set Completion Reward:\n- Ginseng Elixir\n- $100"
+  },
+  {
+    "id": "cc-721",
+    "name": "Artists, Painters, Writers & Poets #04 — Aldous Bramley",
+    "category": "cigarette-card",
+    "x": 5161.3,
+    "y": 3003.5,
+    "region": "New Hanover",
+    "description": "On a table in the porch, between two armchairs.",
+    "tips": "Full Set Completion Reward:\n- Ginseng Elixir\n- $100"
+  },
+  {
+    "id": "cc-727",
+    "name": "Artists, Painters, Writers & Poets #05 — Preston T. Stephenson",
+    "category": "cigarette-card",
+    "x": 8011.0,
+    "y": 5349.9,
+    "region": "Ambarino",
+    "description": "On a desk in the office. Entering is trespassing, so try not to be spotted.",
+    "tips": "Full Set Completion Reward:\n- Ginseng Elixir\n- $100"
+  },
+  {
+    "id": "cc-722",
+    "name": "Artists, Painters, Writers & Poets #06 — Evelyn Miller",
+    "category": "cigarette-card",
+    "x": 5020.7,
+    "y": 3193.1,
+    "region": "New Hanover",
+    "description": "On the table next to the clothesline.",
+    "tips": "Full Set Completion Reward:\n- Ginseng Elixir\n- $100"
+  },
+  {
+    "id": "cc-725",
+    "name": "Artists, Painters, Writers & Poets #07 — Slick Hutton",
+    "category": "cigarette-card",
+    "x": 7983.3,
+    "y": 4464.8,
+    "region": "New Hanover",
+    "description": "On top of a crate on the northeast side of the balcony.",
+    "tips": "Full Set Completion Reward:\n- Ginseng Elixir\n- $100"
+  },
+  {
+    "id": "cc-719",
+    "name": "Artists, Painters, Writers & Poets #08 — Laurence Carson",
+    "category": "cigarette-card",
+    "x": 8064.1,
+    "y": 3250.6,
+    "region": "Lemoyne",
+    "description": "On a table in the back alley, behind the wooden wall.",
+    "tips": "Full Set Completion Reward:\n- Ginseng Elixir\n- $100"
+  },
+  {
+    "id": "cc-724",
+    "name": "Artists, Painters, Writers & Poets #09 — Miss Maud Delancey",
+    "category": "cigarette-card",
+    "x": 7593.9,
+    "y": 3972.2,
+    "region": "Lemoyne",
+    "description": "On top of a table on the second floor of the houseboat.",
+    "tips": "Full Set Completion Reward:\n- Ginseng Elixir\n- $100"
+  },
+  {
+    "id": "cc-333",
+    "name": "Artists, Painters, Writers & Poets #10 — Charles Chatenay",
+    "category": "cigarette-card",
+    "x": 5385.0,
+    "y": 4939.0,
+    "region": "New Hanover",
+    "description": "Outside the house, on a small tea table in the front porch.",
+    "tips": "Full Set Completion Reward:\n- Ginseng Elixir\n- $100"
+  },
+  {
+    "id": "cc-728",
+    "name": "Artists, Painters, Writers & Poets #11 — George Dixie",
+    "category": "cigarette-card",
+    "x": 6605.9,
+    "y": 4615.5,
+    "region": "New Hanover",
+    "description": "On a bed in the easternmost room of the house.",
+    "tips": "Full Set Completion Reward:\n- Ginseng Elixir\n- $100"
+  },
+  {
+    "id": "cc-718",
+    "name": "Artists, Painters, Writers & Poets #12 — Richard McCullough",
+    "category": "cigarette-card",
+    "x": 7866.5,
+    "y": 3421.2,
+    "region": "Lemoyne",
+    "description": "On a table southeast of the gazebo.",
+    "tips": "Full Set Completion Reward:\n- Ginseng Elixir\n- $100"
+  },
+  {
+    "id": "cc-666",
+    "name": "Breeds of Horses #01 — American Paint",
+    "category": "cigarette-card",
+    "x": 6928.3,
+    "y": 3206.9,
+    "region": "Lemoyne",
+    "description": "On top of a crate underneath the cotton mill. May only appear after starting [Smoking and Other Hobbies](https://rdr2map.com?locationIds=388)",
+    "tips": "Full Set Completion Reward:\n- Special Horse Medicine\n- $50"
+  },
+  {
+    "id": "cc-710",
+    "name": "Breeds of Horses #02 — Appaloosa",
+    "category": "cigarette-card",
+    "x": 7854.0,
+    "y": 2991.0,
+    "region": "Lemoyne",
+    "description": "On top of a barrel at the south end of the docks.",
+    "tips": "Full Set Completion Reward:\n- Special Horse Medicine\n- $50"
+  },
+  {
+    "id": "cc-712",
+    "name": "Breeds of Horses #03 — Andalusian",
+    "category": "cigarette-card",
+    "x": 5235.6,
+    "y": 4145.2,
+    "region": "New Hanover",
+    "description": "Inside the stable, on a shelf at the back.",
+    "tips": "Full Set Completion Reward:\n- Special Horse Medicine\n- $50"
+  },
+  {
+    "id": "cc-717",
+    "name": "Breeds of Horses #04 — American Standardbred",
+    "category": "cigarette-card",
+    "x": 6899.1,
+    "y": 2410.0,
+    "region": "Lemoyne",
+    "description": "[Catfish Jacksons](https://rdr2map.com?locationIds=450548) - On a table inside the boy's bedroom.",
+    "tips": "Full Set Completion Reward:\n- Special Horse Medicine\n- $50"
+  },
+  {
+    "id": "cc-714",
+    "name": "Breeds of Horses #05 — Nokota",
+    "category": "cigarette-card",
+    "x": 6851.8,
+    "y": 3147.3,
+    "region": "Lemoyne",
+    "description": "On a workbench inside the stable.",
+    "tips": "Full Set Completion Reward:\n- Special Horse Medicine\n- $50"
+  },
+  {
+    "id": "cc-711",
+    "name": "Breeds of Horses #06 — Ardennes",
+    "category": "cigarette-card",
+    "x": 4669.1,
+    "y": 4503.7,
+    "region": "New Hanover",
+    "description": "On the train platform, on the middle shelf.",
+    "tips": "Full Set Completion Reward:\n- Special Horse Medicine\n- $50"
+  },
+  {
+    "id": "cc-343",
+    "name": "Breeds of Horses #07 — Dutch Warmblood",
+    "category": "cigarette-card",
+    "x": 5061.7,
+    "y": 4477.5,
+    "region": "New Hanover",
+    "description": "On the fireplace mantle next to the bunk beds.",
+    "tips": "Full Set Completion Reward:\n- Special Horse Medicine\n- $50"
+  },
+  {
+    "id": "cc-713",
+    "name": "Breeds of Horses #08 — Turkoman",
+    "category": "cigarette-card",
+    "x": 7014.6,
+    "y": 5437.2,
+    "region": "Ambarino",
+    "description": "On a workbench at the back of the cabin.",
+    "tips": "Full Set Completion Reward:\n- Special Horse Medicine\n- $50"
+  },
+  {
+    "id": "cc-709",
+    "name": "Breeds of Horses #09 — Hungarian Halfbred",
+    "category": "cigarette-card",
+    "x": 2916.0,
+    "y": 2120.7,
+    "region": "New Austin",
+    "description": "On the ground at the base of the Blacksmith's front door.",
+    "tips": "Full Set Completion Reward:\n- Special Horse Medicine\n- $50"
+  },
+  {
+    "id": "cc-344",
+    "name": "Breeds of Horses #10 — Mustang",
+    "category": "cigarette-card",
+    "x": 5028.7,
+    "y": 4467.1,
+    "region": "New Hanover",
+    "description": "On the 2nd floor of the barn, on top of a bale of hay.",
+    "tips": "Full Set Completion Reward:\n- Special Horse Medicine\n- $50"
+  },
+  {
+    "id": "cc-715",
+    "name": "Breeds of Horses #11 — Thoroughbred",
+    "category": "cigarette-card",
+    "x": 6768.5,
+    "y": 3210.0,
+    "region": "Lemoyne",
+    "description": "In the back of the wagon next to the cotton bales.",
+    "tips": "Full Set Completion Reward:\n- Special Horse Medicine\n- $50"
+  },
+  {
+    "id": "cc-716",
+    "name": "Breeds of Horses #12 — Missouri Fox Trotter",
+    "category": "cigarette-card",
+    "x": 6907.8,
+    "y": 2413.7,
+    "region": "Lemoyne",
+    "description": "[Catfish Jacksons](https://rdr2map.com?locationIds=450548) - On a table inside the boy's bedroom.",
+    "tips": "Full Set Completion Reward:\n- Special Horse Medicine\n- $50"
+  },
+  {
+    "id": "cc-687",
+    "name": "Fairest Flowers & Gems of Beauty #01 — Leila Stetson",
+    "category": "cigarette-card",
+    "x": 6314.9,
+    "y": 4897.1,
+    "region": "New Hanover",
+    "description": "On the windowsill next to the fireplace downstairs.",
+    "tips": "Full Set Completion Reward:\n- Platinum Chain Necklace\n- $100"
+  },
+  {
+    "id": "cc-562",
+    "name": "Fairest Flowers & Gems of Beauty #02 — Isabelle Barlow",
+    "category": "cigarette-card",
+    "x": 7592.5,
+    "y": 5916.1,
+    "region": "Ambarino",
+    "description": "On a shelf against the wall inside the abandoned trading post.",
+    "tips": "Full Set Completion Reward:\n- Platinum Chain Necklace\n- $100"
+  },
+  {
+    "id": "cc-561",
+    "name": "Fairest Flowers & Gems of Beauty #03 — Hattie Langtry",
+    "category": "cigarette-card",
+    "x": 7608.5,
+    "y": 5832.7,
+    "region": "Ambarino",
+    "description": "On an end table inside the hut.",
+    "tips": "Full Set Completion Reward:\n- Platinum Chain Necklace\n- $100"
+  },
+  {
+    "id": "cc-567",
+    "name": "Fairest Flowers & Gems of Beauty #04 — Isabelle Standish",
+    "category": "cigarette-card",
+    "x": 7866.8,
+    "y": 5297.7,
+    "region": "New Hanover",
+    "description": "Inside the mine, on a table in the large chamber to the right of the entrance.",
+    "tips": "Full Set Completion Reward:\n- Platinum Chain Necklace\n- $100"
+  },
+  {
+    "id": "cc-691",
+    "name": "Fairest Flowers & Gems of Beauty #05 — Maud Engel",
+    "category": "cigarette-card",
+    "x": 6107.4,
+    "y": 4716.3,
+    "region": "New Hanover",
+    "description": "On a table on the porch, at the North end of the shack.",
+    "tips": "Full Set Completion Reward:\n- Platinum Chain Necklace\n- $100"
+  },
+  {
+    "id": "cc-689",
+    "name": "Fairest Flowers & Gems of Beauty #06 — Sadie Russell",
+    "category": "cigarette-card",
+    "x": 5137.5,
+    "y": 3121.3,
+    "region": "New Hanover",
+    "description": "On top of a barrel inside the chicken coop.",
+    "tips": "Full Set Completion Reward:\n- Platinum Chain Necklace\n- $100"
+  },
+  {
+    "id": "cc-571",
+    "name": "Fairest Flowers & Gems of Beauty #07 — Geraldine Emerson",
+    "category": "cigarette-card",
+    "x": 3918.6,
+    "y": 4765.6,
+    "region": "New Hanover",
+    "description": "On top of a crate at the back of the barn's upper floor.",
+    "tips": "Full Set Completion Reward:\n- Platinum Chain Necklace\n- $100"
+  },
+  {
+    "id": "cc-323",
+    "name": "Fairest Flowers & Gems of Beauty #08 — Agnes Guyon",
+    "category": "cigarette-card",
+    "x": 4570.0,
+    "y": 5113.4,
+    "region": "New Hanover",
+    "description": "On a crate inside the shack.",
+    "tips": "Full Set Completion Reward:\n- Platinum Chain Necklace\n- $100"
+  },
+  {
+    "id": "cc-688",
+    "name": "Fairest Flowers & Gems of Beauty #09 — Jennie Willetts",
+    "category": "cigarette-card",
+    "x": 8070.0,
+    "y": 4705.8,
+    "region": "New Hanover",
+    "description": "On top of a barrel in the yard opposite the post office, near some sacks.",
+    "tips": "Full Set Completion Reward:\n- Platinum Chain Necklace\n- $100"
+  },
+  {
+    "id": "cc-692",
+    "name": "Fairest Flowers & Gems of Beauty #10 — Ilga Ulmer",
+    "category": "cigarette-card",
+    "x": 7987.9,
+    "y": 3269.9,
+    "region": "Lemoyne",
+    "description": "On top of an old desk in the alley. May only appear after starting [Smoking and Other Hobbies](https://rdr2map.com?locationIds=388)",
+    "tips": "Full Set Completion Reward:\n- Platinum Chain Necklace\n- $100"
+  },
+  {
+    "id": "cc-341",
+    "name": "Fairest Flowers & Gems of Beauty #11 — Fay Delaro",
+    "category": "cigarette-card",
+    "x": 5495.4,
+    "y": 4717.0,
+    "region": "New Hanover",
+    "description": "On the upper floor of the barn, at the base of the window / hay door.",
+    "tips": "Full Set Completion Reward:\n- Platinum Chain Necklace\n- $100"
+  },
+  {
+    "id": "cc-690",
+    "name": "Fairest Flowers & Gems of Beauty #12 — Pauline Henderson",
+    "category": "cigarette-card",
+    "x": 6112.2,
+    "y": 5559.5,
+    "region": "Ambarino",
+    "description": "On top of a crate at the north end of the station.",
+    "tips": "Full Set Completion Reward:\n- Platinum Chain Necklace\n- $100"
+  },
+  {
+    "id": "cc-336",
+    "name": "Famous Gunslingers & Outlaws #01 — Frank Heck",
+    "category": "cigarette-card",
+    "x": 5500.9,
+    "y": 4861.7,
+    "region": "New Hanover",
+    "description": "In the middle of the graveyard on the base of an unmarked rounded gravestone in the third row, right in front of the obelisk gravestone.",
+    "tips": "Full Set Completion Reward:\n- Special Snake Oil\n- $50"
+  },
+  {
+    "id": "cc-558",
+    "name": "Famous Gunslingers & Outlaws #02 — Otis Miller Boys",
+    "category": "cigarette-card",
+    "x": 5648.0,
+    "y": 5183.6,
+    "region": "New Hanover",
+    "description": "Go to the east side of the camp and check the back of the blue wagon next to the red table.",
+    "tips": "Full Set Completion Reward:\n- Special Snake Oil\n- $50"
+  },
+  {
+    "id": "cc-319",
+    "name": "Famous Gunslingers & Outlaws #03 — Jack Hall Gang",
+    "category": "cigarette-card",
+    "x": 5310.0,
+    "y": 5589.1,
+    "region": "Ambarino",
+    "description": "Enter the hut on the left-hand side and check the windowsill.",
+    "tips": "Full Set Completion Reward:\n- Special Snake Oil\n- $50"
+  },
+  {
+    "id": "cc-569",
+    "name": "Famous Gunslingers & Outlaws #04 — Butcher Brothers",
+    "category": "cigarette-card",
+    "x": 7744.7,
+    "y": 4856.8,
+    "region": "New Hanover",
+    "description": "On a barrel, on the porch of the shack.",
+    "tips": "Full Set Completion Reward:\n- Special Snake Oil\n- $50"
+  },
+  {
+    "id": "cc-672",
+    "name": "Famous Gunslingers & Outlaws #05 — Flaco Hernandez",
+    "category": "cigarette-card",
+    "x": 6836.3,
+    "y": 3189.8,
+    "region": "Lemoyne",
+    "description": "Go around the back of Rhodes Bank and climb up the ladder to get to the rooftop. The card is lying on one of the rooftop edges.",
+    "tips": "Full Set Completion Reward:\n- Special Snake Oil\n- $50"
+  },
+  {
+    "id": "cc-559",
+    "name": "Famous Gunslingers & Outlaws #06 — Slim Grant",
+    "category": "cigarette-card",
+    "x": 6895.0,
+    "y": 5978.7,
+    "region": "Ambarino",
+    "description": "On a barrel by the shack door",
+    "tips": "Full Set Completion Reward:\n- Special Snake Oil\n- $50"
+  },
+  {
+    "id": "cc-678",
+    "name": "Famous Gunslingers & Outlaws #07 — Landon Ricketts",
+    "category": "cigarette-card",
+    "x": 2950.8,
+    "y": 2067.3,
+    "region": "New Austin",
+    "description": "On top of a barrel behind the building facing the Undertaker.",
+    "tips": "Full Set Completion Reward:\n- Special Snake Oil\n- $50"
+  },
+  {
+    "id": "cc-674",
+    "name": "Famous Gunslingers & Outlaws #08 — Black Belle",
+    "category": "cigarette-card",
+    "x": 5216.9,
+    "y": 3199.6,
+    "region": "New Hanover",
+    "description": "On top of a barrel at the edge of Blackwater pier.",
+    "tips": "_Note: May only appear after starting [Smoking and Other Hobbies](https://rdr2map.com?locationIds=388)_\n\nFull Set Completion Reward:\n- Special Snake Oil\n- $50"
+  },
+  {
+    "id": "cc-673",
+    "name": "Famous Gunslingers & Outlaws #09 — Billy Midnight",
+    "category": "cigarette-card",
+    "x": 1552.7,
+    "y": 1777.6,
+    "region": "New Austin",
+    "description": "On top of the windmill platform.",
+    "tips": "Full Set Completion Reward:\n- Special Snake Oil\n- $50"
+  },
+  {
+    "id": "cc-764",
+    "name": "Famous Gunslingers & Outlaws #10 — Emmet Granger",
+    "category": "cigarette-card",
+    "x": 7750.8,
+    "y": 3907.7,
+    "region": "Lemoyne",
+    "description": "On the table in the shack.",
+    "tips": "_Note: This location is visited as part of [The Noblest of Men, and a Woman](https://rdr2map.com?locationIds=42)_\n\nFull Set Completion Reward:\n- Special Snake Oil\n- $50"
+  },
+  {
+    "id": "cc-676",
+    "name": "Famous Gunslingers & Outlaws #11 — Jim \"Boy\" Calloway",
+    "category": "cigarette-card",
+    "x": 7947.2,
+    "y": 3400.4,
+    "region": "Lemoyne",
+    "description": "Inside the mausoleum with the stained glass window, to the west of the central dome.",
+    "tips": "Full Set Completion Reward:\n- Special Snake Oil\n- $50"
+  },
+  {
+    "id": "cc-675",
+    "name": "Famous Gunslingers & Outlaws #12 — Bart Love",
+    "category": "cigarette-card",
+    "x": 3956.2,
+    "y": 4746.3,
+    "region": "New Hanover",
+    "description": "This card is found inside the house, next to the couch. To get inside the house, use the boxes outside to climb onto the roof and in through the window.",
+    "tips": "Full Set Completion Reward:\n- Special Snake Oil\n- $50"
+  },
+  {
+    "id": "cc-744",
+    "name": "Fauna of North America #01 — Black Widow Spider",
+    "category": "cigarette-card",
+    "x": 3824.0,
+    "y": 4556.4,
+    "region": "New Hanover",
+    "description": "On a desk inside [Vetter's Echo Cabin](https://rdr2map.com?locationIds=880).",
+    "tips": "Tip: There's a bear inside the cabin - if you enter from the rear you'll get to attack it first.\n\nFull Set Completion Reward:\n- Perfect Rabbit Pelt\n- $50.00"
+  },
+  {
+    "id": "cc-758",
+    "name": "Fauna of North America #02 — Bloodhound",
+    "category": "cigarette-card",
+    "x": 6996.2,
+    "y": 2855.2,
+    "region": "Lemoyne",
+    "description": "Found in the fireplace of the ruins.",
+    "tips": "Full Set Completion Reward:\n- Perfect Rabbit Pelt\n- $50.00"
+  },
+  {
+    "id": "cc-761",
+    "name": "Fauna of North America #03 — Bluejay",
+    "category": "cigarette-card",
+    "x": 7316.9,
+    "y": 4721.5,
+    "region": "New Hanover",
+    "description": "On the tree platform, accessible via ladder.",
+    "tips": "Full Set Completion Reward:\n- Perfect Rabbit Pelt\n- $50.00"
+  },
+  {
+    "id": "cc-754",
+    "name": "Fauna of North America #04 — Catfish",
+    "category": "cigarette-card",
+    "x": 7608.9,
+    "y": 3270.4,
+    "region": "Lemoyne",
+    "description": "On top of a barrel on the western side of the docks.",
+    "tips": "Full Set Completion Reward:\n- Perfect Rabbit Pelt\n- $50.00"
+  },
+  {
+    "id": "cc-750",
+    "name": "Fauna of North America #05 — Coral Snake",
+    "category": "cigarette-card",
+    "x": 7576.3,
+    "y": 3608.9,
+    "region": "Lemoyne",
+    "description": "On a narrow table inside the largest house in Lakay.",
+    "tips": "Full Set Completion Reward:\n- Perfect Rabbit Pelt\n- $50.00"
+  },
+  {
+    "id": "cc-756",
+    "name": "Fauna of North America #06 — Grouper",
+    "category": "cigarette-card",
+    "x": 7442.6,
+    "y": 3752.1,
+    "region": "Lemoyne",
+    "description": "On top of a barrel in the back of the wooden fishing boat. May only spawn after beginning [Smoking and Other Hobbies](https://rdr2map.com?locationIds=388)",
+    "tips": "Full Set Completion Reward:\n- Perfect Rabbit Pelt\n- $50.00"
+  },
+  {
+    "id": "cc-755",
+    "name": "Fauna of North America #07 — Large Mouth Bass",
+    "category": "cigarette-card",
+    "x": 6044.8,
+    "y": 3678.7,
+    "region": "Lemoyne",
+    "description": "Underneath the sofa inside the Gill Island fishing cabin.",
+    "tips": "Full Set Completion Reward:\n- Perfect Rabbit Pelt\n- $50.00"
+  },
+  {
+    "id": "cc-760",
+    "name": "Fauna of North America #08 — Panther",
+    "category": "cigarette-card",
+    "x": 7671.4,
+    "y": 4475.4,
+    "region": "New Hanover",
+    "description": "On a crate inside the hut of the derelict fort.",
+    "tips": "Full Set Completion Reward:\n- Perfect Rabbit Pelt\n- $50.00"
+  },
+  {
+    "id": "cc-757",
+    "name": "Fauna of North America #09 — Parrot",
+    "category": "cigarette-card",
+    "x": 7278.8,
+    "y": 3617.3,
+    "region": "Lemoyne",
+    "description": "On top of a crate on the pier.",
+    "tips": "Full Set Completion Reward:\n- Perfect Rabbit Pelt\n- $50.00"
+  },
+  {
+    "id": "cc-762",
+    "name": "Fauna of North America #10 — Pheasant",
+    "category": "cigarette-card",
+    "x": 7322.6,
+    "y": 4720.7,
+    "region": "New Hanover",
+    "description": "On a tree platform, accessible via ladder.",
+    "tips": "Full Set Completion Reward:\n- Perfect Rabbit Pelt\n- $50.00"
+  },
+  {
+    "id": "cc-763",
+    "name": "Fauna of North America #11 — Snapping Turtle",
+    "category": "cigarette-card",
+    "x": 5863.7,
+    "y": 4999.6,
+    "region": "New Hanover",
+    "description": "Inside the house, on a small crate under the dresser.",
+    "tips": "Full Set Completion Reward:\n- Perfect Rabbit Pelt\n- $50.00"
+  },
+  {
+    "id": "cc-759",
+    "name": "Fauna of North America #12 — Turkey",
+    "category": "cigarette-card",
+    "x": 8090.5,
+    "y": 4645.7,
+    "region": "New Hanover",
+    "description": "On the upstairs mantelpiece, in the burned-out Sheriff's Office.",
+    "tips": "Full Set Completion Reward:\n- Perfect Rabbit Pelt\n- $50.00"
+  },
+  {
+    "id": "cc-749",
+    "name": "Flora of North America #01 — Golden Currant",
+    "category": "cigarette-card",
+    "x": 7580.5,
+    "y": 3633.2,
+    "region": "Lemoyne",
+    "description": "On a shelf inside the shack.",
+    "tips": "Full Set Completion Reward:\n- Special Miracle Tonic\n- $50"
+  },
+  {
+    "id": "cc-747",
+    "name": "Flora of North America #02 — Hummingbird Sage",
+    "category": "cigarette-card",
+    "x": 7873.3,
+    "y": 4810.9,
+    "region": "New Hanover",
+    "description": "On a small table on the western side of the shack.",
+    "tips": "Full Set Completion Reward:\n- Special Miracle Tonic\n- $50"
+  },
+  {
+    "id": "cc-753",
+    "name": "Flora of North America #03 — Oleander Sage",
+    "category": "cigarette-card",
+    "x": 7982.3,
+    "y": 3300.0,
+    "region": "Lemoyne",
+    "description": "This card is on a trellis railing, hidden by vines at the top of the stairs.",
+    "tips": "Full Set Completion Reward:\n- Special Miracle Tonic\n- $50"
+  },
+  {
+    "id": "cc-751",
+    "name": "Flora of North America #04 — Yarrow",
+    "category": "cigarette-card",
+    "x": 7676.0,
+    "y": 3551.8,
+    "region": "Lemoyne",
+    "description": "On a windowsill next to the door inside the small house.",
+    "tips": "Full Set Completion Reward:\n- Special Miracle Tonic\n- $50"
+  },
+  {
+    "id": "cc-752",
+    "name": "Flora of North America #05 — Indian Tobacco",
+    "category": "cigarette-card",
+    "x": 7668.9,
+    "y": 3549.9,
+    "region": "Lemoyne",
+    "description": "On a crate outside the small shack, next to its western wall.",
+    "tips": "Full Set Completion Reward:\n- Special Miracle Tonic\n- $50"
+  },
+  {
+    "id": "cc-745",
+    "name": "Flora of North America #06 — Black Mangrove",
+    "category": "cigarette-card",
+    "x": 6927.6,
+    "y": 4577.5,
+    "region": "New Hanover",
+    "description": "Under a bench at the train station.",
+    "tips": "Full Set Completion Reward:\n- Special Miracle Tonic\n- $50"
+  },
+  {
+    "id": "cc-568",
+    "name": "Flora of North America #07 — Longleaf Pine",
+    "category": "cigarette-card",
+    "x": 7845.3,
+    "y": 5289.6,
+    "region": "New Hanover",
+    "description": "In a shaft at the southwest end of the mine; on a crate at the top of the first ladder.",
+    "tips": "Full Set Completion Reward:\n- Special Miracle Tonic\n- $50"
+  },
+  {
+    "id": "cc-741",
+    "name": "Flora of North America #08 — Desert Fan Palm",
+    "category": "cigarette-card",
+    "x": 1385.9,
+    "y": 1790.8,
+    "region": "New Austin",
+    "description": "On a table in the front porch of the house.",
+    "tips": "Full Set Completion Reward:\n- Special Miracle Tonic\n- $50"
+  },
+  {
+    "id": "cc-742",
+    "name": "Flora of North America #09 — Coastal Redwood",
+    "category": "cigarette-card",
+    "x": 4345.3,
+    "y": 3841.5,
+    "region": "West Elizabeth",
+    "description": "On a table in the back porch of the house. May only appear after starting [Smoking and Other Hobbies](https://rdr2map.com?locationIds=388)",
+    "tips": "Full Set Completion Reward:\n- Special Miracle Tonic\n- $50"
+  },
+  {
+    "id": "cc-748",
+    "name": "Flora of North America #10 — Horse Crippler Cactus",
+    "category": "cigarette-card",
+    "x": 7260.1,
+    "y": 3245.3,
+    "region": "Lemoyne",
+    "description": "On a workbench beneath the lean-to.",
+    "tips": "Full Set Completion Reward:\n- Special Miracle Tonic\n- $50"
+  },
+  {
+    "id": "cc-743",
+    "name": "Flora of North America #11 — Blazing Star",
+    "category": "cigarette-card",
+    "x": 3814.9,
+    "y": 4567.3,
+    "region": "New Hanover",
+    "description": "On a porch railing in front of [Vetter's Echo Cabin](https://rdr2map.com?locationIds=880). Watch out for a bear inside the cabin.",
+    "tips": "Full Set Completion Reward:\n- Special Miracle Tonic\n- $50"
+  },
+  {
+    "id": "cc-740",
+    "name": "Flora of North America #12 — Carolina Lupine",
+    "category": "cigarette-card",
+    "x": 1460.8,
+    "y": 1783.6,
+    "region": "New Austin",
+    "description": "On the rooftop of the Sheriff's Station, behind the sign.",
+    "tips": "Full Set Completion Reward:\n- Special Miracle Tonic\n- $50"
+  },
+  {
+    "id": "cc-563",
+    "name": "Marvels of Travel & Locomotion #01 — Packet Ship",
+    "category": "cigarette-card",
+    "x": 8081.9,
+    "y": 5326.4,
+    "region": "Ambarino",
+    "description": "Inside the wooden storage shed, on top of a crate in the back right-hand corner.",
+    "tips": "Full Set Completion Reward:\n- Aged Pirate Rum\n- $50"
+  },
+  {
+    "id": "cc-661",
+    "name": "Marvels of Travel & Locomotion #02 — Schooner",
+    "category": "cigarette-card",
+    "x": 8104.2,
+    "y": 4628.2,
+    "region": "New Hanover",
+    "description": "On the top level of a boat by the narrow pier, you'll find this card underneath a hammock.",
+    "tips": "Full Set Completion Reward:\n- Aged Pirate Rum\n- $50"
+  },
+  {
+    "id": "cc-656",
+    "name": "Marvels of Travel & Locomotion #03 — Camel Caravan",
+    "category": "cigarette-card",
+    "x": 6877.1,
+    "y": 3163.8,
+    "region": "Lemoyne",
+    "description": "Near the blue house, on top of a small wooden table piled high with laundry.",
+    "tips": "Full Set Completion Reward:\n- Aged Pirate Rum\n- $50"
+  },
+  {
+    "id": "cc-652",
+    "name": "Marvels of Travel & Locomotion #04 — Elephant Carriage",
+    "category": "cigarette-card",
+    "x": 4334.6,
+    "y": 3895.0,
+    "region": "West Elizabeth",
+    "description": "Go behind the Trackers Hotel and climb up the wooden staircase. On top of the railing.",
+    "tips": "Full Set Completion Reward:\n- Aged Pirate Rum\n- $50"
+  },
+  {
+    "id": "cc-662",
+    "name": "Marvels of Travel & Locomotion #05 — Goat Carriage",
+    "category": "cigarette-card",
+    "x": 6818.0,
+    "y": 4510.5,
+    "region": "New Hanover",
+    "description": "On a workbench in the back-left corner of the stables.",
+    "tips": "Full Set Completion Reward:\n- Aged Pirate Rum\n- $50"
+  },
+  {
+    "id": "cc-658",
+    "name": "Marvels of Travel & Locomotion #06 — Hot Air Balloon",
+    "category": "cigarette-card",
+    "x": 8027.8,
+    "y": 3309.3,
+    "region": "Lemoyne",
+    "description": "On a shelf in the saloon room with a round table.",
+    "tips": "Full Set Completion Reward:\n- Aged Pirate Rum\n- $50"
+  },
+  {
+    "id": "cc-655",
+    "name": "Marvels of Travel & Locomotion #07 — U.S. Frigate",
+    "category": "cigarette-card",
+    "x": 6546.9,
+    "y": 2788.4,
+    "region": "Lemoyne",
+    "description": "On a wooden table inside the boathouse.",
+    "tips": "Full Set Completion Reward:\n- Aged Pirate Rum\n- $50"
+  },
+  {
+    "id": "cc-660",
+    "name": "Marvels of Travel & Locomotion #08 — The Showboat",
+    "category": "cigarette-card",
+    "x": 7955.8,
+    "y": 3000.4,
+    "region": "Lemoyne",
+    "description": "On the left-hand side of the Harbor Master's house, on a table next to the one with a gutted fish.",
+    "tips": "_Note: May only appear after starting [Smoking and Other Hobbies](https://rdr2map.com?locationIds=388)_\n\nFull Set Completion Reward:\n- Aged Pirate Rum\n- $50"
+  },
+  {
+    "id": "cc-659",
+    "name": "Marvels of Travel & Locomotion #09 — Balener Whaling Vessel",
+    "category": "cigarette-card",
+    "x": 8081.9,
+    "y": 3107.9,
+    "region": "Lemoyne",
+    "description": "On the counter of the ticket booth.",
+    "tips": "Full Set Completion Reward:\n- Aged Pirate Rum\n- $50"
+  },
+  {
+    "id": "cc-653",
+    "name": "Marvels of Travel & Locomotion #10 — Stagecoach",
+    "category": "cigarette-card",
+    "x": 4884.3,
+    "y": 3737.3,
+    "region": "West Elizabeth",
+    "description": "On one of the benches at the station, underneath the timetable poster.",
+    "tips": "Full Set Completion Reward:\n- Aged Pirate Rum\n- $50"
+  },
+  {
+    "id": "cc-654",
+    "name": "Marvels of Travel & Locomotion #11 — Steam Locomotive (II)",
+    "category": "cigarette-card",
+    "x": 6390.4,
+    "y": 3443.8,
+    "region": "Lemoyne",
+    "description": "On top of the ruined southern wall.",
+    "tips": "Full Set Completion Reward:\n- Aged Pirate Rum\n- $50"
+  },
+  {
+    "id": "cc-657",
+    "name": "Marvels of Travel & Locomotion #12 — Velocipede",
+    "category": "cigarette-card",
+    "x": 7774.0,
+    "y": 3351.9,
+    "region": "Lemoyne",
+    "description": "To the left of the large green building, on top of a small table in the porch.",
+    "tips": "Full Set Completion Reward:\n- Aged Pirate Rum\n- $50"
+  },
+  {
+    "id": "cc-351",
+    "name": "Prominent Americans #01 — President Fisher",
+    "category": "cigarette-card",
+    "x": 6632.3,
+    "y": 3331.9,
+    "region": "Lemoyne",
+    "description": "On top of a barrel on the front porch of the big red building.",
+    "tips": "Full Set Completion Reward:\n- Eagle Feather x 3\n- $50"
+  },
+  {
+    "id": "cc-359",
+    "name": "Prominent Americans #02 — President Hardin",
+    "category": "cigarette-card",
+    "x": 7479.3,
+    "y": 3734.7,
+    "region": "Lemoyne",
+    "description": "On the wooden fence railings of the dark blue house on the water.",
+    "tips": "Full Set Completion Reward:\n- Eagle Feather x 3\n- $50"
+  },
+  {
+    "id": "cc-357",
+    "name": "Prominent Americans #03 — Lillian Powell",
+    "category": "cigarette-card",
+    "x": 7118.5,
+    "y": 3926.3,
+    "region": "Lemoyne",
+    "description": "On top of some outdoor crates along the right-hand side of the barn, toward the back.",
+    "tips": "Full Set Completion Reward:\n- Eagle Feather x 3\n- $50"
+  },
+  {
+    "id": "cc-361",
+    "name": "Prominent Americans #04 — Leviticus Cornwall",
+    "category": "cigarette-card",
+    "x": 5361.8,
+    "y": 4732.8,
+    "region": "New Hanover",
+    "description": "On top of an upturned barrel in the front porch of the wooden house.",
+    "tips": "Full Set Completion Reward:\n- Eagle Feather x3\n- $50"
+  },
+  {
+    "id": "cc-350",
+    "name": "Prominent Americans #05 — JD McKnight",
+    "category": "cigarette-card",
+    "x": 6936.9,
+    "y": 3113.4,
+    "region": "Lemoyne",
+    "description": "Enter the leafy garden of the large house with the white pillars. Check the table inside the little gazebo.",
+    "tips": "Full Set Completion Reward:\n- Eagle Feather x 3\n- $50"
+  },
+  {
+    "id": "cc-348",
+    "name": "Prominent Americans #06 — Luther Covington",
+    "category": "cigarette-card",
+    "x": 7630.6,
+    "y": 3027.1,
+    "region": "Lemoyne",
+    "description": "Step onto the pier and turn right, going all the way to the end. The card is on top of a wooden crate by the wall.",
+    "tips": "Full Set Completion Reward:\n- Eagle Feather x 3\n- $50"
+  },
+  {
+    "id": "cc-347",
+    "name": "Prominent Americans #07 — Harvey Griggs",
+    "category": "cigarette-card",
+    "x": 7692.4,
+    "y": 3083.3,
+    "region": "Lemoyne",
+    "description": "Enter the large brick \"station\" building from the east and turn left. Behind the staircase are some workbenches. The card is on top of one of the benches.",
+    "tips": "Note: Only appears after starting [Smoking and Other Hobbies](https://rdr2map.com?locationIds=388)\n\nFull Set Completion Reward:\n- Eagle Feather x 3\n- $50"
+  },
+  {
+    "id": "cc-346",
+    "name": "Prominent Americans #08 — Henrietta Beatrice Woods",
+    "category": "cigarette-card",
+    "x": 7888.1,
+    "y": 3506.4,
+    "region": "Lemoyne",
+    "description": "On the table in the front porch of the red wooden house.",
+    "tips": "Full Set Completion Reward:\n- Eagle Feather x 3\n- $50"
+  },
+  {
+    "id": "cc-360",
+    "name": "Prominent Americans #09 — General Quincy Harris",
+    "category": "cigarette-card",
+    "x": 6175.7,
+    "y": 4784.0,
+    "region": "New Hanover",
+    "description": "At the base of the wooden oil rig.",
+    "tips": "Full Set Completion Reward:\n- Eagle Feather x 3\n- $50"
+  },
+  {
+    "id": "cc-355",
+    "name": "Prominent Americans #10 — General Cornelius Palmer",
+    "category": "cigarette-card",
+    "x": 6889.0,
+    "y": 3560.1,
+    "region": "Lemoyne",
+    "description": "Hop into the cow pen and go into the wooden hay barn on the right. The card is on top of the table with the two copper milks cans.",
+    "tips": "Full Set Completion Reward:\n- Eagle Feather x 3\n- $50"
+  },
+  {
+    "id": "cc-324",
+    "name": "Prominent Americans #11 — Senator Thaddeus Waxman",
+    "category": "cigarette-card",
+    "x": 7047.1,
+    "y": 3942.9,
+    "region": "Lemoyne",
+    "description": "Enter the house and check the mantelpiece above the fireplace in the room with the two bunk beds.",
+    "tips": "Full Set Completion Reward:\n- Eagle Feather x 3\n- $50"
+  },
+  {
+    "id": "cc-349",
+    "name": "Prominent Americans #12 — President Alfred MacAlister",
+    "category": "cigarette-card",
+    "x": 7495.6,
+    "y": 2789.8,
+    "region": "Lemoyne",
+    "description": "Enter the cabin through the front door and check the windowsill on the right.",
+    "tips": "Full Set Completion Reward:\n- Eagle Feather x 3\n- $50"
+  },
+  {
+    "id": "cc-736",
+    "name": "Stars of the Stage #01 — Laurence Dunn",
+    "category": "cigarette-card",
+    "x": 6690.1,
+    "y": 3446.7,
+    "region": "Lemoyne",
+    "description": "On the mantelpiece inside the farmhouse.",
+    "tips": "Full Set Completion Reward:\n- Small Jewelry Bag\n- $50"
+  },
+  {
+    "id": "cc-734",
+    "name": "Stars of the Stage #02 — Louis Durand",
+    "category": "cigarette-card",
+    "x": 7945.3,
+    "y": 4670.2,
+    "region": "New Hanover",
+    "description": "On a crate on the east porch of the abandoned house.",
+    "tips": "Full Set Completion Reward:\n- Small Jewelry Bag\n- $50"
+  },
+  {
+    "id": "cc-731",
+    "name": "Stars of the Stage #03 — Jesse Raymond",
+    "category": "cigarette-card",
+    "x": 1474.8,
+    "y": 1844.5,
+    "region": "New Austin",
+    "description": "Inside the burned-out house, on the windowsill by the mantelpiece.",
+    "tips": "Full Set Completion Reward:\n- Small Jewelry Bag\n- $50"
+  },
+  {
+    "id": "cc-572",
+    "name": "Stars of the Stage #04 — Augusta Tremlow",
+    "category": "cigarette-card",
+    "x": 3903.9,
+    "y": 4760.8,
+    "region": "New Hanover",
+    "description": "On the top platform of the windmill tower.",
+    "tips": "Full Set Completion Reward:\n- Small Jewelry Bag\n- $50"
+  },
+  {
+    "id": "cc-738",
+    "name": "Stars of the Stage #05 — Mabel Potter",
+    "category": "cigarette-card",
+    "x": 7827.7,
+    "y": 3209.7,
+    "region": "Lemoyne",
+    "description": "On a side table by the fireplace in the theater's western corridor.",
+    "tips": "Full Set Completion Reward:\n- Small Jewelry Bag\n- $50"
+  },
+  {
+    "id": "cc-739",
+    "name": "Stars of the Stage #06 — Robin Koninsky",
+    "category": "cigarette-card",
+    "x": 7843.3,
+    "y": 3199.7,
+    "region": "Lemoyne",
+    "description": "On a table at the side of the stage.",
+    "tips": "_Note: This card is only accessible after watching all 5 performances at the Theater Raleur. The final performance unlocks after \"Fatherhood and Other Dreams\" in Chapter 4._\n\nFull Set Completion Reward:\n- Small Jewelry Bag\n- $50"
+  },
+  {
+    "id": "cc-339",
+    "name": "Stars of the Stage #07 — Isadore Reid",
+    "category": "cigarette-card",
+    "x": 5395.2,
+    "y": 4781.4,
+    "region": "New Hanover",
+    "description": "In the back of one of the wagons by a tree.",
+    "tips": "Full Set Completion Reward:\n- Small Jewelry Bag\n- $50"
+  },
+  {
+    "id": "cc-732",
+    "name": "Stars of the Stage #08 — Irene Grubb",
+    "category": "cigarette-card",
+    "x": 3861.4,
+    "y": 2245.8,
+    "region": "New Hanover",
+    "description": "On a bench on the train platform.",
+    "tips": "Full Set Completion Reward:\n- Small Jewelry Bag\n- $50"
+  },
+  {
+    "id": "cc-340",
+    "name": "Stars of the Stage #09 — Nettie Palmer",
+    "category": "cigarette-card",
+    "x": 5420.6,
+    "y": 4764.5,
+    "region": "New Hanover",
+    "description": "Inside the show tent, on a crate underneath the projectionist's platform.",
+    "tips": "Full Set Completion Reward:\n- Small Jewelry Bag\n- $50"
+  },
+  {
+    "id": "cc-735",
+    "name": "Stars of the Stage #10 — Jim Cobb",
+    "category": "cigarette-card",
+    "x": 6764.6,
+    "y": 3903.6,
+    "region": "Lemoyne",
+    "description": "On a bench on the front porch of the abandoned house.",
+    "tips": "Full Set Completion Reward:\n- Small Jewelry Bag\n- $50"
+  },
+  {
+    "id": "cc-733",
+    "name": "Stars of the Stage #11 — Mittie Comstock",
+    "category": "cigarette-card",
+    "x": 6437.5,
+    "y": 4426.7,
+    "region": "New Hanover",
+    "description": "On top of a barrel by the door.",
+    "tips": "Full Set Completion Reward:\n- Small Jewelry Bag\n- $50"
+  },
+  {
+    "id": "cc-737",
+    "name": "Stars of the Stage #12 — Robert Elliot Patchen",
+    "category": "cigarette-card",
+    "x": 6835.5,
+    "y": 3313.1,
+    "region": "Lemoyne",
+    "description": "On top of a crate on the north side of the yellow hut. May only spawn after beginning [Smoking and Other Hobbies](https://rdr2map.com?locationIds=388)",
+    "tips": "Full Set Completion Reward:\n- Small Jewelry Bag\n- $50"
+  },
+  {
+    "id": "cc-695",
+    "name": "The World's Champions #01 — Percy Wood",
+    "category": "cigarette-card",
+    "x": 7732.2,
+    "y": 4804.6,
+    "region": "New Hanover",
+    "description": "On top of the well outside the shack.",
+    "tips": "Full Set Completion Reward:\n- Valerian Root\n- $50"
+  },
+  {
+    "id": "cc-328",
+    "name": "The World's Champions #02 — Edwin A. Rowe",
+    "category": "cigarette-card",
+    "x": 5130.8,
+    "y": 5024.4,
+    "region": "New Hanover",
+    "description": "On the windowsill inside [Clawson's Rest](https://rdr2map.com?locationIds=205), right next to [Capt. Jack Page](https://rdr2map.com?locationIds=326)",
+    "tips": "Full Set Completion Reward:\n- Valerian Root\n- $50"
+  },
+  {
+    "id": "cc-700",
+    "name": "The World's Champions #03 — Theobaud Getzin",
+    "category": "cigarette-card",
+    "x": 6874.5,
+    "y": 4526.8,
+    "region": "New Hanover",
+    "description": "On a shelf on the porch.",
+    "tips": "Full Set Completion Reward:\n- Valerian Root\n- $50"
+  },
+  {
+    "id": "cc-693",
+    "name": "The World's Champions #04 — H.T. Slocum",
+    "category": "cigarette-card",
+    "x": 7753.8,
+    "y": 3909.0,
+    "region": "Lemoyne",
+    "description": "On top of a crate under the shack.",
+    "tips": "Full Set Completion Reward:\n- Valerian Root\n- $50"
+  },
+  {
+    "id": "cc-694",
+    "name": "The World's Champions #05 — R.S. Harradon",
+    "category": "cigarette-card",
+    "x": 7531.3,
+    "y": 4126.3,
+    "region": "Lemoyne",
+    "description": "On a table, just left of the porch.",
+    "tips": "Full Set Completion Reward:\n- Valerian Root\n- $50"
+  },
+  {
+    "id": "cc-699",
+    "name": "The World's Champions #06 — E.D. Ewing \"Walker\"",
+    "category": "cigarette-card",
+    "x": 6691.7,
+    "y": 4145.8,
+    "region": "Lemoyne",
+    "description": "On a shelf in the basement, accessible via the hatch in the middle of the cabin.",
+    "tips": "Full Set Completion Reward:\n- Valerian Root\n- $50"
+  },
+  {
+    "id": "cc-698",
+    "name": "The World's Champions #07 — Patsey Hill",
+    "category": "cigarette-card",
+    "x": 8033.9,
+    "y": 3393.7,
+    "region": "Lemoyne",
+    "description": "On the railing in the back porch of the shack.",
+    "tips": "Full Set Completion Reward:\n- Valerian Root\n- $50"
+  },
+  {
+    "id": "cc-696",
+    "name": "The World's Champions #08 — William Sleicher",
+    "category": "cigarette-card",
+    "x": 6102.9,
+    "y": 4716.3,
+    "region": "New Hanover",
+    "description": "On a table on the porch, at the North end of the shack.",
+    "tips": "Full Set Completion Reward:\n- Valerian Root\n- $50"
+  },
+  {
+    "id": "cc-565",
+    "name": "The World's Champions #09 — Edwin Singerly",
+    "category": "cigarette-card",
+    "x": 7969.7,
+    "y": 5352.1,
+    "region": "Ambarino",
+    "description": "On the floor at the top of the coal mining facility tower.",
+    "tips": "Full Set Completion Reward:\n- Valerian Root\n- $50"
+  },
+  {
+    "id": "cc-321",
+    "name": "The World's Champions #10 — Felix Hawley",
+    "category": "cigarette-card",
+    "x": 4836.6,
+    "y": 5540.0,
+    "region": "Ambarino",
+    "description": "On a table inside the cabin.",
+    "tips": "Full Set Completion Reward:\n- Valerian Root\n- $50"
+  },
+  {
+    "id": "cc-326",
+    "name": "The World's Champions #11 — Capt. Jack Page",
+    "category": "cigarette-card",
+    "x": 5122.3,
+    "y": 5030.6,
+    "region": "New Hanover",
+    "description": "On the windowsill inside [Clawson's Rest](https://rdr2map.com?locationIds=205), right next to [Edwin A. Rowe](https://rdr2map.com?locationIds=328)",
+    "tips": "Full Set Completion Reward:\n- Valerian Root\n- $50"
+  },
+  {
+    "id": "cc-697",
+    "name": "The World's Champions #12 — Axel McCormack",
+    "category": "cigarette-card",
+    "x": 7909.5,
+    "y": 3253.1,
+    "region": "Lemoyne",
+    "description": "On top of a crate in the courtyard at the back of the Bastille Saloon, at the foot of some stairs and a wrought-iron fence.",
+    "tips": "_Note: May only appear after starting [Smoking and Other Hobbies](https://rdr2map.com?locationIds=388)_\n\nFull Set Completion Reward:\n- Valerian Root\n- $50"
+  },
+  {
+    "id": "cc-679",
+    "name": "Vistas, Scenery & Cities of America #01 — New York",
+    "category": "cigarette-card",
+    "x": 7271.7,
+    "y": 3095.2,
+    "region": "Lemoyne",
+    "description": "On a table in the front porch.",
+    "tips": "Full Set Completion Reward:\n- Gold Nugget\n- $100"
+  },
+  {
+    "id": "cc-682",
+    "name": "Vistas, Scenery & Cities of America #02 — Saint Denis",
+    "category": "cigarette-card",
+    "x": 8012.8,
+    "y": 3139.0,
+    "region": "Lemoyne",
+    "description": "Found on a cart, on the corner east of the Station/Mail room",
+    "tips": "Full Set Completion Reward:\n- Gold Nugget\n- $100"
+  },
+  {
+    "id": "cc-683",
+    "name": "Vistas, Scenery & Cities of America #03 — Blackwater",
+    "category": "cigarette-card",
+    "x": 5137.7,
+    "y": 3165.3,
+    "region": "New Hanover",
+    "description": "Go around the back of the saloon and climb the ladder to the rooftop. The card is on the chimney.",
+    "tips": "Full Set Completion Reward:\n- Gold Nugget\n- $100"
+  },
+  {
+    "id": "cc-681",
+    "name": "Vistas, Scenery & Cities of America #04 — Armadillo",
+    "category": "cigarette-card",
+    "x": 2883.9,
+    "y": 2091.8,
+    "region": "New Austin",
+    "description": "On top of a barrel in the pig pen.",
+    "tips": "Full Set Completion Reward:\n- Gold Nugget\n- $100"
+  },
+  {
+    "id": "cc-573",
+    "name": "Vistas, Scenery & Cities of America #05 — Rio Bravo",
+    "category": "cigarette-card",
+    "x": 5480.3,
+    "y": 3940.9,
+    "region": "New Hanover",
+    "description": "Climb to the top of the yellow windmill across the tracks from the station.",
+    "tips": "Full Set Completion Reward:\n- Gold Nugget\n- $100"
+  },
+  {
+    "id": "cc-680",
+    "name": "Vistas, Scenery & Cities of America #06 — The Grizzlies",
+    "category": "cigarette-card",
+    "x": 3046.3,
+    "y": 1762.8,
+    "region": "New Austin",
+    "description": "On a table inside the shack. May only spawn after beginning [Smoking and Other Hobbies](https://rdr2map.com?locationIds=388)",
+    "tips": "Full Set Completion Reward:\n- Gold Nugget\n- $100"
+  },
+  {
+    "id": "cc-685",
+    "name": "Vistas, Scenery & Cities of America #07 — San Francisco",
+    "category": "cigarette-card",
+    "x": 7682.4,
+    "y": 4465.0,
+    "region": "New Hanover",
+    "description": "On the windowsill of the abandoned fort's southeast tower. Climb a ladder to reach it.",
+    "tips": "Full Set Completion Reward:\n- Gold Nugget\n- $100"
+  },
+  {
+    "id": "cc-574",
+    "name": "Vistas, Scenery & Cities of America #08 — Tall Trees",
+    "category": "cigarette-card",
+    "x": 5487.1,
+    "y": 3917.4,
+    "region": "New Hanover",
+    "description": "Walk around the back of the station and you'll find the card lying on top of a barrel near the south wall.",
+    "tips": "Full Set Completion Reward:\n- Gold Nugget\n- $100"
+  },
+  {
+    "id": "cc-342",
+    "name": "Vistas, Scenery & Cities of America #09 — Valentine",
+    "category": "cigarette-card",
+    "x": 5560.5,
+    "y": 4714.5,
+    "region": "New Hanover",
+    "description": "In the middle of the train station, on a table by the Valentine Rail Bulletin.",
+    "tips": "Full Set Completion Reward:\n- Gold Nugget\n- $100"
+  },
+  {
+    "id": "cc-684",
+    "name": "Vistas, Scenery & Cities of America #10 — Chicago",
+    "category": "cigarette-card",
+    "x": 6880.8,
+    "y": 4456.2,
+    "region": "New Hanover",
+    "description": "On the top platform of the windmill.",
+    "tips": "Full Set Completion Reward:\n- Gold Nugget\n- $100"
+  },
+  {
+    "id": "cc-686",
+    "name": "Vistas, Scenery & Cities of America #11 — Rhodes",
+    "category": "cigarette-card",
+    "x": 6838.7,
+    "y": 3264.7,
+    "region": "Lemoyne",
+    "description": "On top of a gravestone.",
+    "tips": "Full Set Completion Reward:\n- Gold Nugget\n- $100"
+  },
+  {
+    "id": "cc-566",
+    "name": "Vistas, Scenery & Cities of America #12 — Annesburg",
+    "category": "cigarette-card",
+    "x": 7941.6,
+    "y": 5341.1,
+    "region": "Ambarino",
+    "description": "On top of a barrel on the mine cart tracks.",
+    "tips": "Full Set Completion Reward:\n- Gold Nugget\n- $100"
+  },
+  {
+    "id": "dinosaur-bone-51",
+    "name": "Dinosaur Bone #1",
+    "category": "dinosaur-bone",
+    "x": 5980.5,
+    "y": 3866.6,
+    "region": "New Hanover",
+    "description": "In the middle of the grass"
+  },
+  {
+    "id": "dinosaur-bone-52",
+    "name": "Dinosaur Bone #2",
+    "category": "dinosaur-bone",
+    "x": 6092.3,
+    "y": 4090.9,
+    "region": "Lemoyne",
+    "description": "At the very end of a dried-up river, near a boulder. The bone lies on the ground and blends in with it, so use Eagle Eye to have an easier time spotting it."
+  },
+  {
+    "id": "dinosaur-bone-53",
+    "name": "Dinosaur Bone #3",
+    "category": "dinosaur-bone",
+    "x": 6022.4,
+    "y": 4202.4,
+    "region": "Lemoyne",
+    "description": "Climb down a ladder under the oil derrick platform. The bone is at the bottom in a dark cave."
+  },
+  {
+    "id": "dinosaur-bone-54",
+    "name": "Dinosaur Bone #4",
+    "category": "dinosaur-bone",
+    "x": 6489.5,
+    "y": 4029.2,
+    "region": "Lemoyne",
+    "description": "In the dry dirt, adjacent to the green grassy area."
+  },
+  {
+    "id": "dinosaur-bone-55",
+    "name": "Dinosaur Bone #5",
+    "category": "dinosaur-bone",
+    "x": 6449.4,
+    "y": 3873.4,
+    "region": "Lemoyne",
+    "description": "In the dry dirt between 3 boulders."
+  },
+  {
+    "id": "dinosaur-bone-56",
+    "name": "Dinosaur Bone #6",
+    "category": "dinosaur-bone",
+    "x": 7005.5,
+    "y": 4876.0,
+    "region": "New Hanover",
+    "description": "In front of the nearby hut, in the grass."
+  },
+  {
+    "id": "dinosaur-bone-57",
+    "name": "Dinosaur Bone #7",
+    "category": "dinosaur-bone",
+    "x": 7547.7,
+    "y": 5115.3,
+    "region": "New Hanover",
+    "description": "Just below the top of the mountain, on a plateau facing the river"
+  },
+  {
+    "id": "dinosaur-bone-58",
+    "name": "Dinosaur Bone #8",
+    "category": "dinosaur-bone",
+    "x": 7941.9,
+    "y": 4827.4,
+    "region": "New Hanover",
+    "description": "Amidst the trees on the ground."
+  },
+  {
+    "id": "dinosaur-bone-59",
+    "name": "Dinosaur Bone #9",
+    "category": "dinosaur-bone",
+    "x": 7871.3,
+    "y": 5712.8,
+    "region": "Ambarino",
+    "description": "Near the edge of a cliff (above a road)."
+  },
+  {
+    "id": "dinosaur-bone-60",
+    "name": "Dinosaur Bone #10",
+    "category": "dinosaur-bone",
+    "x": 7307.1,
+    "y": 5590.8,
+    "region": "Ambarino",
+    "description": "On top of the rock just south of the trail"
+  },
+  {
+    "id": "dinosaur-bone-61",
+    "name": "Dinosaur Bone #11",
+    "category": "dinosaur-bone",
+    "x": 6906.0,
+    "y": 5848.1,
+    "region": "Ambarino",
+    "description": "On top of the hill"
+  },
+  {
+    "id": "dinosaur-bone-62",
+    "name": "Dinosaur Bone #12",
+    "category": "dinosaur-bone",
+    "x": 6742.1,
+    "y": 5380.8,
+    "region": "Ambarino",
+    "description": "On a pyramid shaped rock on the edge of the mountain.  The path up the mountain is to the north-east"
+  },
+  {
+    "id": "dinosaur-bone-63",
+    "name": "Dinosaur Bone #13",
+    "category": "dinosaur-bone",
+    "x": 6213.5,
+    "y": 5830.0,
+    "region": "Ambarino",
+    "description": "On a grassy slope near the top of the hill. Partially hidden by a boulder."
+  },
+  {
+    "id": "dinosaur-bone-64",
+    "name": "Dinosaur Bone #14",
+    "category": "dinosaur-bone",
+    "x": 6015.1,
+    "y": 5504.5,
+    "region": "Ambarino",
+    "description": "On top of a hill, sitting on a flat rock."
+  },
+  {
+    "id": "dinosaur-bone-65",
+    "name": "Dinosaur Bone #15",
+    "category": "dinosaur-bone",
+    "x": 5783.3,
+    "y": 5474.2,
+    "region": "Ambarino",
+    "description": "Walk along the cliffside, look down, and when you see the bones, drop down to collect them. Easiest to reach when approaching from the north."
+  },
+  {
+    "id": "dinosaur-bone-66",
+    "name": "Dinosaur Bone #16",
+    "category": "dinosaur-bone",
+    "x": 5563.2,
+    "y": 5135.3,
+    "region": "New Hanover",
+    "description": "On the edge of the cliff of the mountain."
+  },
+  {
+    "id": "dinosaur-bone-67",
+    "name": "Dinosaur Bone #17",
+    "category": "dinosaur-bone",
+    "x": 5227.2,
+    "y": 4962.5,
+    "region": "New Hanover",
+    "description": "Fossilized in the wall near the river."
+  },
+  {
+    "id": "dinosaur-bone-68",
+    "name": "Dinosaur Bone #18",
+    "category": "dinosaur-bone",
+    "x": 5204.1,
+    "y": 4881.2,
+    "region": "New Hanover",
+    "description": "On top of the mountain, in a grassy area near the cliff."
+  },
+  {
+    "id": "dinosaur-bone-69",
+    "name": "Dinosaur Bone #19",
+    "category": "dinosaur-bone",
+    "x": 4957.8,
+    "y": 4288.8,
+    "region": "West Elizabeth",
+    "description": "Below the mountain cliff, fossilized in the wall."
+  },
+  {
+    "id": "dinosaur-bone-70",
+    "name": "Dinosaur Bone #20",
+    "category": "dinosaur-bone",
+    "x": 4483.6,
+    "y": 4775.5,
+    "region": "New Hanover",
+    "description": "Inside a small cave (which may contain a grizzly bear). The entrance is under a rock formation, just a few meters south of the collectible location."
+  },
+  {
+    "id": "dinosaur-bone-71",
+    "name": "Dinosaur Bone #21",
+    "category": "dinosaur-bone",
+    "x": 3805.3,
+    "y": 4438.0,
+    "region": "West Elizabeth",
+    "description": "In the middle of the road up a slanted hill."
+  },
+  {
+    "id": "dinosaur-bone-72",
+    "name": "Dinosaur Bone #22",
+    "category": "dinosaur-bone",
+    "x": 3890.2,
+    "y": 4172.7,
+    "region": "West Elizabeth",
+    "description": "At the side of the road on a cliff."
+  },
+  {
+    "id": "dinosaur-bone-73",
+    "name": "Dinosaur Bone #23",
+    "category": "dinosaur-bone",
+    "x": 3423.4,
+    "y": 2346.6,
+    "region": "New Hanover",
+    "description": "In the ravine next to the wall of the cliff"
+  },
+  {
+    "id": "dinosaur-bone-74",
+    "name": "Dinosaur Bone #24",
+    "category": "dinosaur-bone",
+    "x": 3741.8,
+    "y": 1630.1,
+    "region": "New Hanover",
+    "description": "In a grassy area with some bushes."
+  },
+  {
+    "id": "dinosaur-bone-75",
+    "name": "Dinosaur Bone #25",
+    "category": "dinosaur-bone",
+    "x": 3053.4,
+    "y": 1290.8,
+    "region": "New Austin",
+    "description": "Near the top of the mountain at the edge of the cliff."
+  },
+  {
+    "id": "dinosaur-bone-76",
+    "name": "Dinosaur Bone #26",
+    "category": "dinosaur-bone",
+    "x": 2374.1,
+    "y": 1232.8,
+    "region": "New Austin",
+    "description": "On a hilltop near the cliff."
+  },
+  {
+    "id": "dinosaur-bone-77",
+    "name": "Dinosaur Bone #27",
+    "category": "dinosaur-bone",
+    "x": 2511.2,
+    "y": 1854.8,
+    "region": "New Austin",
+    "description": "On top of a small hill at the highest point.  Covered by bushes."
+  },
+  {
+    "id": "dinosaur-bone-78",
+    "name": "Dinosaur Bone #28",
+    "category": "dinosaur-bone",
+    "x": 2303.9,
+    "y": 2386.8,
+    "region": "New Austin",
+    "description": "Fossilized in the side of a rock wall."
+  },
+  {
+    "id": "dinosaur-bone-79",
+    "name": "Dinosaur Bone #29",
+    "category": "dinosaur-bone",
+    "x": 1576.2,
+    "y": 1704.7,
+    "region": "New Austin",
+    "description": "On top of the ridge, near a cactus.  Best approached from Tumbleweed's windmill."
+  },
+  {
+    "id": "dinosaur-bone-80",
+    "name": "Dinosaur Bone #30",
+    "category": "dinosaur-bone",
+    "x": 1654.5,
+    "y": 1995.8,
+    "region": "New Austin",
+    "description": "On a mountain.  The path up is north east of the bone location."
+  },
+  {
+    "id": "rock-carving-132",
+    "name": "Rock Carving #1",
+    "category": "rock-carving",
+    "x": 4359.7,
+    "y": 5229.7,
+    "region": "New Hanover",
+    "description": "This carving is located at the end of the road on Mount Hagen."
+  },
+  {
+    "id": "rock-carving-131",
+    "name": "Rock Carving #2",
+    "category": "rock-carving",
+    "x": 5466.6,
+    "y": 5638.7,
+    "region": "Ambarino",
+    "description": "You'll find this carving facing the river."
+  },
+  {
+    "id": "rock-carving-134",
+    "name": "Rock Carving #3",
+    "category": "rock-carving",
+    "x": 5996.0,
+    "y": 5517.0,
+    "region": "Ambarino",
+    "description": "To find this carving, start by approaching the mountains from the southern side of the river. Once you climb to the top, you'll see a passage leading down between the trees. The carving will be near the top, facing the river."
+  },
+  {
+    "id": "rock-carving-133",
+    "name": "Rock Carving #4",
+    "category": "rock-carving",
+    "x": 5486.0,
+    "y": 5267.1,
+    "region": "New Hanover",
+    "description": "To find this carving, walk to the edge of the mountain and follow the small mountain pass leading down.\nAnother way is to jump down from the top of the mountain seen in the screenshot."
+  },
+  {
+    "id": "rock-carving-140",
+    "name": "Rock Carving #5",
+    "category": "rock-carving",
+    "x": 3694.4,
+    "y": 3822.0,
+    "region": "West Elizabeth",
+    "description": "You'll see this carving from the western side of Owanjila Lake."
+  },
+  {
+    "id": "rock-carving-139",
+    "name": "Rock Carving #6",
+    "category": "rock-carving",
+    "x": 4227.5,
+    "y": 4136.3,
+    "region": "West Elizabeth",
+    "description": "This carving can be found by walking to the edge of the mountain and following a path that leads down to a giant skeleton. Walk around the corner to see the carving facing the valley below the mountain."
+  },
+  {
+    "id": "rock-carving-138",
+    "name": "Rock Carving #7",
+    "category": "rock-carving",
+    "x": 5403.1,
+    "y": 4005.6,
+    "region": "New Hanover",
+    "description": "You'll find this carving near the very top of a cliff."
+  },
+  {
+    "id": "rock-carving-135",
+    "name": "Rock Carving #8",
+    "category": "rock-carving",
+    "x": 6736.8,
+    "y": 4994.8,
+    "region": "New Hanover",
+    "description": "Just south of Moonstone Pond, you'll find a rock on the plateau with a pyramid carving on it."
+  },
+  {
+    "id": "rock-carving-136",
+    "name": "Rock Carving #9",
+    "category": "rock-carving",
+    "x": 7797.3,
+    "y": 5604.3,
+    "region": "Ambarino",
+    "description": "This carving is facing the road."
+  },
+  {
+    "id": "rock-carving-137",
+    "name": "Rock Carving #10",
+    "category": "rock-carving",
+    "x": 7658.1,
+    "y": 5008.9,
+    "region": "New Hanover",
+    "description": "This carving can be found east of the Elysian Pool, by the road."
+  },
+  {
+    "id": "poi-886",
+    "name": "Abandoned Church",
+    "category": "point-of-interest",
+    "x": 7100.2,
+    "y": 2753.4,
+    "region": "Lemoyne"
+  },
+  {
+    "id": "poi-888",
+    "name": "Abandoned Trading Post",
+    "category": "point-of-interest",
+    "x": 7585.6,
+    "y": 5915.5,
+    "region": "Ambarino",
+    "description": "Lift up one of the floor planks to reveal a hidden stash."
+  },
+  {
+    "id": "poi-870",
+    "name": "Barrel Rider",
+    "category": "point-of-interest",
+    "x": 6083.3,
+    "y": 5646.9,
+    "region": "Ambarino",
+    "description": "A thrill seeker went over Donner Falls in a barrel. It ended exactly how you'd expect."
+  },
+  {
+    "id": "poi-890",
+    "name": "Bolger Glade",
+    "category": "point-of-interest",
+    "x": 7029.9,
+    "y": 2763.3,
+    "region": "Lemoyne",
+    "description": "Approach the cannons in the middle of the battlefield to add this POI to your journal."
+  },
+  {
+    "id": "poi-917",
+    "name": "Braithwaites' Secret",
+    "category": "point-of-interest",
+    "x": 6554.1,
+    "y": 2654.5,
+    "region": "Lemoyne",
+    "description": "A physically deformed and mentally ill woman can be found locked inside this outhouse.",
+    "tips": "She's still there in the epilogue."
+  },
+  {
+    "id": "poi-918",
+    "name": "Brush Fire",
+    "category": "point-of-interest",
+    "x": 5508.0,
+    "y": 4284.5,
+    "region": "New Hanover",
+    "description": "Can be added to your journal by standing near the burnt wagon nearby."
+  },
+  {
+    "id": "poi-889",
+    "name": "Circus Wagons",
+    "category": "point-of-interest",
+    "x": 4409.1,
+    "y": 2889.8,
+    "region": "West Elizabeth",
+    "description": "A fortune telling machine can be found inside the blue wagon."
+  },
+  {
+    "id": "poi-892157",
+    "name": "Coal Mine Writing",
+    "category": "point-of-interest",
+    "x": 7858.8,
+    "y": 5378.0,
+    "region": "Ambarino",
+    "description": "At the bottom of the Annesburg coal mine, in the northwesternmost tunnel, carved into the wooden wall. It is added to the player's journal without comment, and serves as the unofficial start to the Reed Cottage Treasure.",
+    "tips": "North Bennet Flew\n\nNorth Bennett Flue\n\nRed Roof, Green Door\n\nBrothers I’ll be poor no more.\n\nThis clue is intended to lead the player to Reed Cottage, north of Annesburg, wherein the player should check the chimney to find the Sketched Treasure Map."
+  },
+  {
+    "id": "poi-871",
+    "name": "Crashed Airship",
+    "category": "point-of-interest",
+    "x": 3651.2,
+    "y": 4777.6,
+    "region": "New Hanover",
+    "description": "The wreckage of a flying machine with a corpse inside.",
+    "tips": "This may be an Easter Egg referencing the Kinnear family from Red Dead Redemption 1. Charles Kinnear creates an ill-fated flying machine in the 'Deadalus and Son' side mission, and another of his machines can be found in this game when exploring New Austin.\n\nThe wreck here _could_ be the work of Charles' brother Percival, as the corpse wears remarkably similar glasses to Charles."
+  },
+  {
+    "id": "poi-891",
+    "name": "Defaced Grave",
+    "category": "point-of-interest",
+    "x": 4846.4,
+    "y": 5541.1,
+    "region": "Ambarino"
+  },
+  {
+    "id": "poi-899",
+    "name": "Devil's Cave",
+    "category": "point-of-interest",
+    "x": 3570.9,
+    "y": 4730.8,
+    "region": "New Hanover",
+    "description": "NB: You may need to enter and leave the cave to inspect it, where it will be added to your journal under the name 'Hidden Tunnel'."
+  },
+  {
+    "id": "poi-892",
+    "name": "Donkey Lady",
+    "category": "point-of-interest",
+    "x": 2825.6,
+    "y": 1786.6,
+    "region": "New Austin",
+    "description": "Inspect the corpse of a woman with a donkey skull tied to the wheel.",
+    "tips": "This is a reference to a glitch in the first Red Dead Redemption, where the game would spawn an NPC with the behaviour and face of a donkey.\n\nThe glitch became popular after YouTube channel WhereDaBootz made a video showcasing the glitch."
+  },
+  {
+    "id": "poi-866",
+    "name": "Face in Cliff",
+    "category": "point-of-interest",
+    "x": 6677.9,
+    "y": 5265.4,
+    "region": "New Hanover",
+    "description": "A Mount Rushmore-esque face carved into the mountain. Approach from the north to make it to the top.",
+    "tips": "The sculptor has died by suicide and left a note which you can retrieve from his body - \"Note from the Sculptor\""
+  },
+  {
+    "id": "poi-893",
+    "name": "Faces in Trees",
+    "category": "point-of-interest",
+    "x": 3603.0,
+    "y": 3846.2,
+    "region": "West Elizabeth"
+  },
+  {
+    "id": "poi-894",
+    "name": "Flying Machine",
+    "category": "point-of-interest",
+    "x": 2386.1,
+    "y": 2074.6,
+    "region": "New Austin",
+    "description": "The wreckage of a flying machine, with \"Charles Kinnear\" written on the back.",
+    "tips": "This references a character of the same name from the first Red Dead Redemption, who creates an ill-fated flying machine in the 'Deadalus and Son' side mission. The wreck here is likely to be the work of a younger Charles, who clearly did not improve his craft with age."
+  },
+  {
+    "id": "poi-895",
+    "name": "Fossilized Man",
+    "category": "point-of-interest",
+    "x": 7359.4,
+    "y": 5764.9,
+    "region": "Ambarino",
+    "description": "On a rock ledge, near the tunnel entrance"
+  },
+  {
+    "id": "poi-896",
+    "name": "Frozen Settler",
+    "category": "point-of-interest",
+    "x": 4364.5,
+    "y": 5268.3,
+    "region": "New Hanover",
+    "description": "Wearing the Morion Helmet."
+  },
+  {
+    "id": "poi-170",
+    "name": "Giant Remains",
+    "category": "point-of-interest",
+    "x": 4231.8,
+    "y": 4152.5,
+    "region": "West Elizabeth",
+    "description": "Follow the path south-east.  The skeleton is under a large overhanging rock, and above a rock carving."
+  },
+  {
+    "id": "poi-897",
+    "name": "Gray's Secret",
+    "category": "point-of-interest",
+    "x": 7220.6,
+    "y": 3151.3,
+    "region": "Lemoyne",
+    "description": "On a porch. Only appears after completing the Chapter 3 mission \"A Short Walk in a Pretty Town\""
+  },
+  {
+    "id": "poi-373",
+    "name": "Hermit Woman",
+    "category": "point-of-interest",
+    "x": 3643.2,
+    "y": 5109.3,
+    "region": "New Hanover",
+    "description": "A solitary woman living alone with several feral dogs. Some theorize that she moved to this location to become a witch."
+  },
+  {
+    "id": "poi-900",
+    "name": "Jesuit Missionary",
+    "category": "point-of-interest",
+    "x": 849.8,
+    "y": 1357.2,
+    "region": "New Austin",
+    "description": "On his body you'll find the Letter to Brother Rodolfo."
+  },
+  {
+    "id": "poi-358",
+    "name": "Mammoth Skeleton",
+    "category": "point-of-interest",
+    "x": 4244.6,
+    "y": 5932.6,
+    "region": "Ambarino"
+  },
+  {
+    "id": "poi-873",
+    "name": "Manmade Mutant",
+    "category": "point-of-interest",
+    "x": 7936.4,
+    "y": 4670.9,
+    "region": "New Hanover",
+    "description": "A gruesome frankenstein experiment, made from various animal parts.",
+    "tips": "Enter the building by climbing through the window on the second floor, above the southwest porch."
+  },
+  {
+    "id": "poi-901",
+    "name": "Meditating Monk",
+    "category": "point-of-interest",
+    "x": 6466.9,
+    "y": 5473.9,
+    "region": "Ambarino",
+    "description": "Seems to only appear at noon."
+  },
+  {
+    "id": "poi-152",
+    "name": "Meteor House",
+    "category": "point-of-interest",
+    "x": 7612.7,
+    "y": 5836.4,
+    "region": "Ambarino",
+    "description": "This cabin has a hole in the roof where a meteorite has come through and killed the inhabitants.  The room is smoking and the bodies are burned.  Inside you can collect the meteorite."
+  },
+  {
+    "id": "poi-902",
+    "name": "Meteorite",
+    "category": "point-of-interest",
+    "x": 7458.9,
+    "y": 5901.9,
+    "region": "Ambarino"
+  },
+  {
+    "id": "poi-19332",
+    "name": "Mysterious Aztec Writing #1",
+    "category": "point-of-interest",
+    "x": 5213.2,
+    "y": 3228.7,
+    "region": "New Hanover",
+    "description": "Location: Left hand side of the blue building on a wood pole in the water"
+  },
+  {
+    "id": "poi-28950",
+    "name": "Mysterious Aztec Writing #2",
+    "category": "point-of-interest",
+    "x": 5182.9,
+    "y": 3183.1,
+    "region": "New Hanover",
+    "description": "Location: On top of the mortuary"
+  },
+  {
+    "id": "poi-19331",
+    "name": "Mysterious Aztec Writing #3",
+    "category": "point-of-interest",
+    "x": 5145.5,
+    "y": 3157.5,
+    "region": "New Hanover",
+    "description": "Location: On the wall in the alley."
+  },
+  {
+    "id": "poi-28949",
+    "name": "Mysterious Aztec Writing #4",
+    "category": "point-of-interest",
+    "x": 5173.6,
+    "y": 3148.5,
+    "region": "New Hanover",
+    "description": "Location: In the alley behind the general store - on the wall"
+  },
+  {
+    "id": "poi-2342",
+    "name": "Mysterious Aztec Writing #5",
+    "category": "point-of-interest",
+    "x": 5184.7,
+    "y": 3121.2,
+    "region": "New Hanover",
+    "description": "Location: In the alleyway, on the wall"
+  },
+  {
+    "id": "poi-19333",
+    "name": "Mysterious Aztec Writing #6",
+    "category": "point-of-interest",
+    "x": 5134.9,
+    "y": 3110.0,
+    "region": "New Hanover",
+    "description": "Location: On the roof."
+  },
+  {
+    "id": "poi-90",
+    "name": "Mysterious Hill Home",
+    "category": "point-of-interest",
+    "x": 6242.0,
+    "y": 5673.2,
+    "region": "Ambarino"
+  },
+  {
+    "id": "poi-374",
+    "name": "Native Burial Site",
+    "category": "point-of-interest",
+    "x": 3664.2,
+    "y": 4097.3,
+    "region": "West Elizabeth",
+    "description": "A Stone Hatchet can be found in the centre of its large stone circle.\nIf you start a fire in the center of the stone circle, it will start to rain."
+  },
+  {
+    "id": "poi-903",
+    "name": "Obelisk",
+    "category": "point-of-interest",
+    "x": 3387.7,
+    "y": 4059.0,
+    "region": "West Elizabeth",
+    "description": "A 3-sided stone obelisk mounted on a square stone. On the west side, a plaque is located that contains the date 1771 and the latin phrase, \"Hora fugit, ne tardes\" which translates to \"The hour flees, don't be late\", a popular motto often used on sun dials.",
+    "tips": "Pull the plaque off and you'll find a gold earring and another treasure map."
+  },
+  {
+    "id": "poi-887",
+    "name": "Oil Derrick",
+    "category": "point-of-interest",
+    "x": 6029.2,
+    "y": 4203.2,
+    "region": "Lemoyne",
+    "description": "A letter from the vice president of Cornwall Kerosene & Tar can be found on the body by the Derrick, while Dinosaur Bone #3 is inside it.",
+    "tips": "Ginseng Elixir can be found in the abandoned camp."
+  },
+  {
+    "id": "poi-908",
+    "name": "Old Tomb",
+    "category": "point-of-interest",
+    "x": 7561.5,
+    "y": 5589.3,
+    "region": "Ambarino",
+    "description": "Home to a Viking Hatchet, Viking Helmet, and Ancient Viking Comb."
+  },
+  {
+    "id": "poi-904",
+    "name": "Old World Scripts",
+    "category": "point-of-interest",
+    "x": 8236.5,
+    "y": 5409.0,
+    "region": "Ambarino",
+    "description": "Engraved on the boulder on top of the ledge. Roughly translates to:",
+    "tips": "_We Arrived By Boat Beautiful Land Gracious People We Left Them To Live In Peace_"
+  },
+  {
+    "id": "poi-330",
+    "name": "Pagan Ritual",
+    "category": "point-of-interest",
+    "x": 3426.8,
+    "y": 3968.0,
+    "region": "West Elizabeth",
+    "description": "Home to the Pagan Skull Mask and a bottle of Valerian Root."
+  },
+  {
+    "id": "poi-24831",
+    "name": "Painting in Cabin",
+    "category": "point-of-interest",
+    "x": 7150.7,
+    "y": 3432.5,
+    "region": "Lemoyne",
+    "description": "Finished painting can only be seen in the epilogue.",
+    "tips": "Note: It was previously believed that you needed 100% completion to inspect this location but this is not the case."
+  },
+  {
+    "id": "poi-905",
+    "name": "Phonograph",
+    "category": "point-of-interest",
+    "x": 7602.1,
+    "y": 3982.0,
+    "region": "Lemoyne",
+    "description": "Inside the houseboat"
+  },
+  {
+    "id": "poi-384",
+    "name": "Pleasance",
+    "category": "point-of-interest",
+    "x": 7169.3,
+    "y": 3899.8,
+    "region": "Lemoyne"
+  },
+  {
+    "id": "poi-919",
+    "name": "Register Rock",
+    "category": "point-of-interest",
+    "x": 6262.4,
+    "y": 4557.8,
+    "region": "New Hanover",
+    "description": "Just off the trail (to the north) and to the left of the tree. A \"register rock\" is one with names carved into it. You can see some from the trail, but most are on the topside of the large rock."
+  },
+  {
+    "id": "poi-906",
+    "name": "Serpent Mound",
+    "category": "point-of-interest",
+    "x": 7873.9,
+    "y": 4590.4,
+    "region": "New Hanover",
+    "description": "Climb up the watchtower to inspect the site."
+  },
+  {
+    "id": "poi-907",
+    "name": "Sperm Whale Bones",
+    "category": "point-of-interest",
+    "x": 2163.7,
+    "y": 1424.4,
+    "region": "New Austin"
+  },
+  {
+    "id": "poi-154",
+    "name": "Strange Statues - Painting",
+    "category": "point-of-interest",
+    "x": 5523.3,
+    "y": 5482.5,
+    "region": "Ambarino",
+    "description": "This area has a big rock formation with a hole in the middle of it.  Head into the circular opening in the big rock to inspect a painting.",
+    "tips": "Before or after discovering this painting, you can visit the Strange Statues Cave and solve its puzzle to earn three gold bars (which fetch a price of $500 each.)"
+  },
+  {
+    "id": "poi-153",
+    "name": "Strange Statues Cave",
+    "category": "point-of-interest",
+    "x": 6281.6,
+    "y": 5752.0,
+    "region": "Ambarino",
+    "description": "Puzzle: Each statue has a certain number of fingers. You need to push the buttons on the statues that have the number of fingers: 2, 3, 5 and 7 (prime numbers).",
+    "tips": "One of the statues is missing an arm, which can be found in a pile of rocks in the corner of the cave. This statue will represent 7. If you accidentally press a button on an incorrect statue, you can push the button back out by pressing a button on the back of the statue. The order that you select does not matter. It's hard to see this button, so use Eagle Eye and first person view.\n\nReward: Gold Bar x3 (worth $1500 total!)"
+  },
+  {
+    "id": "poi-356",
+    "name": "Tiny Church",
+    "category": "point-of-interest",
+    "x": 7703.4,
+    "y": 3653.6,
+    "region": "Lemoyne",
+    "description": "A tiny church for a tiny congregation"
+  },
+  {
+    "id": "poi-909",
+    "name": "Trading Post",
+    "category": "point-of-interest",
+    "x": 5908.4,
+    "y": 3883.5,
+    "region": "New Hanover"
+  },
+  {
+    "id": "poi-910",
+    "name": "Trail Trees (I)",
+    "category": "point-of-interest",
+    "x": 7387.4,
+    "y": 5088.5,
+    "region": "New Hanover",
+    "description": "On the right side of the road before the bridge."
+  },
+  {
+    "id": "poi-911",
+    "name": "Trail Trees (II)",
+    "category": "point-of-interest",
+    "x": 7400.9,
+    "y": 5131.8,
+    "region": "New Hanover"
+  },
+  {
+    "id": "poi-912",
+    "name": "Trail Trees (III)",
+    "category": "point-of-interest",
+    "x": 7441.4,
+    "y": 5146.3,
+    "region": "New Hanover"
+  },
+  {
+    "id": "poi-913",
+    "name": "Trail Trees (IV)",
+    "category": "point-of-interest",
+    "x": 7466.7,
+    "y": 5203.6,
+    "region": "New Hanover"
+  },
+  {
+    "id": "poi-915",
+    "name": "Warped Tree",
+    "category": "point-of-interest",
+    "x": 6467.9,
+    "y": 4417.4,
+    "region": "New Hanover",
+    "description": "At the top of a hill, next to a grave."
+  },
+  {
+    "id": "poi-916",
+    "name": "Whale Bones",
+    "category": "point-of-interest",
+    "x": 3525.0,
+    "y": 3822.7,
+    "region": "West Elizabeth",
+    "description": "A set of whale bones found in Big Valley, West Elizabeth. You can find this site West of Owanjila, on a hill that overlooks the lake."
+  },
+  {
+    "id": "poi-914",
+    "name": "Wickiup",
+    "category": "point-of-interest",
+    "x": 3654.4,
+    "y": 2976.8,
+    "region": "West Elizabeth"
+  },
+  {
+    "id": "poi-898",
+    "name": "Withered Arm",
+    "category": "point-of-interest",
+    "x": 7434.9,
+    "y": 2874.4,
+    "region": "Lemoyne"
+  },
+  {
+    "id": "dc-226",
+    "name": "Dreamcatcher #01",
+    "category": "dreamcatcher",
+    "x": 7157.4,
+    "y": 5767.4,
+    "region": "Ambarino",
+    "description": "hanging from a dead tree"
+  },
+  {
+    "id": "dc-251",
+    "name": "Dreamcatcher #02",
+    "category": "dreamcatcher",
+    "x": 7692.4,
+    "y": 5541.4,
+    "region": "Ambarino",
+    "description": "Hanging in a tree, close to the river"
+  },
+  {
+    "id": "dc-252",
+    "name": "Dreamcatcher #03",
+    "category": "dreamcatcher",
+    "x": 7660.6,
+    "y": 5345.1,
+    "region": "Ambarino"
+  },
+  {
+    "id": "dc-254",
+    "name": "Dreamcatcher #04",
+    "category": "dreamcatcher",
+    "x": 7798.0,
+    "y": 5274.3,
+    "region": "New Hanover"
+  },
+  {
+    "id": "dc-257",
+    "name": "Dreamcatcher #05",
+    "category": "dreamcatcher",
+    "x": 7736.7,
+    "y": 5164.1,
+    "region": "New Hanover",
+    "description": "Hidden in trees, near road"
+  },
+  {
+    "id": "dc-259",
+    "name": "Dreamcatcher #06",
+    "category": "dreamcatcher",
+    "x": 7567.3,
+    "y": 4917.5,
+    "region": "New Hanover"
+  },
+  {
+    "id": "dc-260",
+    "name": "Dreamcatcher #07",
+    "category": "dreamcatcher",
+    "x": 7052.6,
+    "y": 4797.7,
+    "region": "New Hanover",
+    "description": "On the north side of the flat white rocks."
+  },
+  {
+    "id": "dc-261",
+    "name": "Dreamcatcher #08",
+    "category": "dreamcatcher",
+    "x": 6723.0,
+    "y": 4656.7,
+    "region": "New Hanover"
+  },
+  {
+    "id": "dc-262",
+    "name": "Dreamcatcher #09",
+    "category": "dreamcatcher",
+    "x": 7039.5,
+    "y": 4232.5,
+    "region": "Lemoyne"
+  },
+  {
+    "id": "dc-263",
+    "name": "Dreamcatcher #10",
+    "category": "dreamcatcher",
+    "x": 7328.8,
+    "y": 4063.0,
+    "region": "Lemoyne"
+  },
+  {
+    "id": "dc-264",
+    "name": "Dreamcatcher #11",
+    "category": "dreamcatcher",
+    "x": 6999.3,
+    "y": 4046.8,
+    "region": "Lemoyne",
+    "description": "Hanging low on a tree  near the clearing"
+  },
+  {
+    "id": "dc-266",
+    "name": "Dreamcatcher #12",
+    "category": "dreamcatcher",
+    "x": 6309.5,
+    "y": 4236.5,
+    "region": "Lemoyne"
+  },
+  {
+    "id": "dc-267",
+    "name": "Dreamcatcher #13",
+    "category": "dreamcatcher",
+    "x": 5788.0,
+    "y": 4722.9,
+    "region": "New Hanover"
+  },
+  {
+    "id": "dc-268",
+    "name": "Dreamcatcher #14",
+    "category": "dreamcatcher",
+    "x": 5701.4,
+    "y": 4392.4,
+    "region": "New Hanover",
+    "description": "On a tree in between a rock and a ledge."
+  },
+  {
+    "id": "dc-269",
+    "name": "Dreamcatcher #15",
+    "category": "dreamcatcher",
+    "x": 5322.3,
+    "y": 3974.8,
+    "region": "New Hanover",
+    "description": "On the edge of the cliff above the road"
+  },
+  {
+    "id": "dc-270",
+    "name": "Dreamcatcher #16",
+    "category": "dreamcatcher",
+    "x": 5284.3,
+    "y": 4404.5,
+    "region": "New Hanover"
+  },
+  {
+    "id": "dc-271",
+    "name": "Dreamcatcher #17",
+    "category": "dreamcatcher",
+    "x": 5275.9,
+    "y": 4643.2,
+    "region": "New Hanover",
+    "description": "Just off the path to the right hand side if travelling east from valentine. across from crastor's ridge."
+  },
+  {
+    "id": "dc-273",
+    "name": "Dreamcatcher #18",
+    "category": "dreamcatcher",
+    "x": 4932.8,
+    "y": 5001.8,
+    "region": "New Hanover",
+    "description": "On a tall, dead tree with no leaves"
+  },
+  {
+    "id": "dc-274",
+    "name": "Dreamcatcher #19",
+    "category": "dreamcatcher",
+    "x": 5273.6,
+    "y": 5287.2,
+    "region": "New Hanover"
+  },
+  {
+    "id": "dc-275",
+    "name": "Dreamcatcher #20",
+    "category": "dreamcatcher",
+    "x": 5876.3,
+    "y": 5641.3,
+    "region": "Ambarino",
+    "description": "Hanging from a tree that could be seen from the trail, facing east, that wraps around Coterra Springs."
+  }
+]
