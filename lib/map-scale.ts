@@ -18,7 +18,7 @@ export const MAP_BOUNDS: [[number, number], [number, number]] = [
 export const MIN_ZOOM = -3.25;
 export const MAX_ZOOM = 1.25;
 /** Cluster, solange Zoom kleiner als dieser Wert ist. */
-export const CLUSTER_BELOW_ZOOM = 0;
+export const CLUSTER_BELOW_ZOOM = -1.5;
 
 export const SNIPE_RING_METERS = 50;
 export const SNIPE_RING_COUNT = 6;

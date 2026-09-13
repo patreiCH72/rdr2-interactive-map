@@ -13,10 +13,10 @@ export type ClusterItem =
     };
 
 function cellSizeForZoom(zoom: number): number {
-  if (zoom < -2) return 1400;
-  if (zoom < -1) return 800;
-  if (zoom < 0) return 400;
-  return 220;
+  if (zoom < -2.5) return 900;
+  if (zoom < -2) return 480;
+  if (zoom < -1.5) return 260;
+  return 140;
 }
 
 export function clusterLocations(
