@@ -44,7 +44,7 @@ function ShellInner() {
 
   return (
     <div className="flex h-dvh flex-col bg-leather text-paper">
-      <header className="flex items-center gap-2 border-b border-gold/30 px-3 py-2 lg:hidden">
+      <header className="relative z-50 flex items-center gap-2 border-b border-gold/30 px-3 py-2 lg:hidden">
         <button
           type="button"
           className="rounded-sm border border-gold/30 px-2 py-1 text-xs"
@@ -67,7 +67,7 @@ function ShellInner() {
 
       <div className="flex min-h-0 flex-1">
         <LeftSidebar />
-        <main className="relative min-w-0 flex-1">
+        <main className="relative z-0 isolate min-w-0 flex-1 overflow-hidden">
           <MapCanvas />
           {(state.leftOpen || state.rightOpen) && (
             <button

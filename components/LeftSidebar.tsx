@@ -45,7 +45,7 @@ export function LeftSidebar() {
 
   return (
     <aside
-      className={`fixed inset-y-0 left-0 z-40 flex w-[20rem] max-w-[88vw] flex-col border-r border-gold/30 bg-leather text-paper shadow-2xl transition-transform duration-200 lg:static lg:z-10 lg:max-w-none lg:translate-x-0 ${
+      className={`fixed inset-y-0 left-0 z-50 flex w-[20rem] max-w-[88vw] flex-col border-r border-gold/30 bg-leather text-paper shadow-2xl transition-transform duration-200 lg:relative lg:z-20 lg:max-w-none lg:translate-x-0 ${
         state.leftOpen ? "translate-x-0" : "-translate-x-full"
       }`}
     >
