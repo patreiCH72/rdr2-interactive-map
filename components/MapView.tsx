@@ -389,18 +389,18 @@ function MapToolbar() {
   const { state, dispatch } = useMapState();
 
   return createPortal(
-    <div className="pointer-events-none absolute right-3 bottom-8 z-[1000] flex flex-col items-end gap-2">
-      <div className="pointer-events-auto flex overflow-hidden rounded-sm border border-[#6b4f3a] bg-[#f3e6c8] text-xs font-semibold text-ink shadow-md">
+    <div className="pointer-events-none absolute right-3 bottom-8 z-[1000] flex items-end gap-2">
+      <div className="pointer-events-auto flex h-9 overflow-hidden rounded-sm border border-[#6b4f3a] bg-[#f3e6c8] text-xs font-semibold text-ink shadow-md">
         <button
           type="button"
-          className={`px-3 py-1.5 ${state.mapStyle === "default" ? "bg-[#6b4f3a] text-[#f3e6c8]" : ""}`}
+          className={`px-3 ${state.mapStyle === "default" ? "bg-[#6b4f3a] text-[#f3e6c8]" : ""}`}
           onClick={() => dispatch({ type: "set-style", style: "default" })}
         >
           Default
         </button>
         <button
           type="button"
-          className={`px-3 py-1.5 ${state.mapStyle === "detailed" ? "bg-[#6b4f3a] text-[#f3e6c8]" : ""}`}
+          className={`px-3 ${state.mapStyle === "detailed" ? "bg-[#6b4f3a] text-[#f3e6c8]" : ""}`}
           onClick={() => dispatch({ type: "set-style", style: "detailed" })}
         >
           Detailed
